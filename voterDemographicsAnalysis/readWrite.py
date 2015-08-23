@@ -1,7 +1,13 @@
 #creates a consolidated text file using individual files "AC1740001b.txt"
 #consolidated text file contains data of all voters, with each line
 #representing the data of single voter
-
+'''This file contains functions for reading and writing the required files
+Files to be read:
+1. txt
+Files to be written
+1. txt
+2. csv
+'''
 
 def singleVoterDataString(singleVoterDataStringTxtFileName):	
 	with open(singleVoterDataStringTxtFileName,'r') as f:
