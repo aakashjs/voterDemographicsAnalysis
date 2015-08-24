@@ -8,6 +8,7 @@ Files to be written
 1. txt
 2. csv
 '''
+import voterDemographicsAnalysis
 
 def singleVoterDataString(singleVoterDataStringTxtFileName):	
 	with open(singleVoterDataStringTxtFileName,'r') as f:
@@ -60,7 +61,8 @@ def automate():
 
 
 def main():
-	automate()
+	#automate()
+    print voterDemographicsAnalysis.fileNames()
 
 if __name__ == '__main__':
 	main()
