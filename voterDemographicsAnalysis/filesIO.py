@@ -24,34 +24,38 @@ def singleFileVoterData(firstExtractFileName):
     return singleFileVoterData
 
 
-def writeVoterConsolidatedDataOnTxt(firstExtractFileName):
+def createConsolidatedTxt(startFileNumber, endingFileNumber):
     '''(str, list) -> NoneType
     Writes the voter data from each individual voter data file to a 
     consolidated file. Each voter entry contains
     1. pdfFileName from which it was extracted
     2. serial number of that voter in that pdf
-    3. extracted raw voter data string like this:
-    (House No.:.Eshwarappa Venkatalakshmi SVF5421417Sex: FemaleAge: 31Husband's Name:)
+    3. extracted raw voter data string (House No.:.Eshwarappa Venkatalakshmi SVF5421417Sex: FemaleAge: 31Husband's Name:)
     '''
-    pdfFileName = firstExtractFileName[:-5]+".pdf"
+    
     path = "E:/myProjects/gitRepos/voterDemographicsAnalysis/sampleFiles/firstExtracts/consolidated/"
-    fileName = "firstExtractsConsolidated4.txt"
-    singleFileVoterDataAsList = singleFileVoterData(firstExtractFileName)
-    with open(path+fileName,'a') as f:
-		for index,value in enumerate(singleFileVoterDataAsList):
-			slNo = int(index)+1
-			newElement = pdfFileName + "\t"+ "slNo"+str(slNo)+"\t"+ value 
-			f.write(newElement)
-			#f.write("\n")
-    print "Voter Data written on Consolidated Txt file for: ", firstExtractFileName
+    outputFileName = "firstExtractsConsolidated6.txt"
+
+    list1 = lists.firstExtractsNamesList(startFileNumber, endingFileNumber)
+
+    with open(path+outputFileName,'a') as f:
+        for file in list1:
+            pdfFileName = file[:-5]+".pdf"
+
+            list2 = singleFileVoterData(file)
+
+            for index,value in enumerate(list2):
+                slNo = int(index)+1
+                newElement = pdfFileName + "\t"+ "slNo"+str(slNo)+"\t"+ value
+                f.write(newElement)
+                #f.write("\n")
+
+            print "Voter Data written on Consolidated Txt file for: ", file
 
 
 def main():    
-    tillFileNumber = 2
-    pdfsNameList, txtConvertsNameList, firstExtractsNameList = lists.fileNames(tillFileNumber)
-    
-    for file in firstExtractsNameList:        
-        writeVoterConsolidatedDataOnTxt(file)
+    #createConsolidatedTxt(0,2)
+
 
 if __name__ == '__main__':
 	main()
