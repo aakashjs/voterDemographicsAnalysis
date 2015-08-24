@@ -23,16 +23,17 @@ def generateNumberList():
 	return numberList
 
 
-def fileNames():
-	'''(list) -> list, list, list
+def fileNames(end):
+	'''(int) -> list, list, list
+	Takes the number of files in the list as input (end)
 	Returns 3 lists. Each is a list of file Names
 	list1 : list of pdf file Names
 	list2 : list of file names converted from pdf to text
-	list3 : list of 
+	list3 : list of fileNames after first extraction using regex
 	'''
 	numberList = generateNumberList()
 	#[:3] for 3 files only, use [:] for files upto 399
-	numbers = numberList[:5]
+	numbers = numberList[:end]
 	pdfsNameList = []	
 	txtConvertsNameList = []	
 	firstExtractsNameList = []
@@ -46,7 +47,7 @@ def fileNames():
 
 
 def main():
-	pdfsNameList, txtConvertsNameList, firstExtractsNameList = fileNames()
+	pdfsNameList, txtConvertsNameList, firstExtractsNameList = fileNames(2)
 	print pdfsNameList
 	print txtConvertsNameList
 	print firstExtractsNameList

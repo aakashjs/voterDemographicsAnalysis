@@ -9,60 +9,49 @@ Files to be written
 2. csv
 '''
 import voterDemographicsAnalysis
+import lists
 
-def singleVoterDataString(singleVoterDataStringTxtFileName):	
-	with open(singleVoterDataStringTxtFileName,'r') as f:
-		singleVoterDataString = f.readlines()
+def singleFileVoterData(firstExtractFileName):
+    '''(str) -> list
+    Takes the name of the file from the firstExtractsNameList and
+    Returns a list whose each element is a voter entry (like this:)
+    (House No.:.Eshwarappa Venkatalakshmi SVF5421417Sex: FemaleAge: 31Husband's Name:) 
+    
+    '''
+    path = "E:/myProjects/gitRepos/voterDemographicsAnalysis/sampleFiles/firstExtracts/"
+    with open(path+firstExtractFileName,'r') as f:
+		singleFileVoterData = f.readlines()
+    return singleFileVoterData
 
-	return singleVoterDataString
 
-
-def writeVoterConsolidatedDataOnTxt(pdfFileName,singleVoterDataStringList):
-	fileName = "voterConsolidatedDataAsStringSample.txt"
-	with open(fileName,'a') as f:
-		for index,value in enumerate(singleVoterDataStringList):
+def writeVoterConsolidatedDataOnTxt(firstExtractFileName):
+    '''(str, list) -> NoneType
+    Writes the voter data from each individual voter data file to a 
+    consolidated file. Each voter entry contains
+    1. pdfFileName from which it was extracted
+    2. serial number of that voter in that pdf
+    3. extracted raw voter data string like this:
+    (House No.:.Eshwarappa Venkatalakshmi SVF5421417Sex: FemaleAge: 31Husband's Name:)
+    '''
+    pdfFileName = firstExtractFileName[:-5]+".pdf"
+    path = "E:/myProjects/gitRepos/voterDemographicsAnalysis/sampleFiles/firstExtracts/consolidated/"
+    fileName = "firstExtractsConsolidated4.txt"
+    singleFileVoterDataAsList = singleFileVoterData(firstExtractFileName)
+    with open(path+fileName,'a') as f:
+		for index,value in enumerate(singleFileVoterDataAsList):
 			slNo = int(index)+1
 			newElement = pdfFileName + "\t"+ "slNo"+str(slNo)+"\t"+ value 
 			f.write(newElement)
 			#f.write("\n")
-	print "Voter Data String written on Consolidated file for: ", pdfFileName
+    print "Voter Data written on Consolidated Txt file for: ", firstExtractFileName
 
 
-def generateNumberList():
-    numberList = []
-    for x in xrange(1,400):
-        s = str(x)
-        #print s
-        if x in xrange(1,10):
-            number = "000" + s
-            numberList.append(number)
-
-        if x in xrange(10,100):
-            number = "00" + s
-            numberList.append(number)
-
-        if x in xrange(100,400):
-            number = "0" + s
-            numberList.append(number)
-
-    return numberList
-
-
-def automate():
-    numberList = generateNumberList()
-    #[:3] for 3 files only, use [:] for files upto 399
-    numbers = numberList[:]
-
-    for number in numbers:
-    	pdfFileName = "AC174"+ number +".pdf"
-        singleVoterDataStringTxtFileName = "AC174"+ number +"b.txt"
-        singleVoterDataStringList = singleVoterDataString(singleVoterDataStringTxtFileName)
-        writeVoterConsolidatedDataOnTxt(pdfFileName, singleVoterDataStringList)
-
-
-def main():
-	#automate()
-    print voterDemographicsAnalysis.fileNames()
+def main():    
+    tillFileNumber = 2
+    pdfsNameList, txtConvertsNameList, firstExtractsNameList = lists.fileNames(tillFileNumber)
+    
+    for file in firstExtractsNameList:        
+        writeVoterConsolidatedDataOnTxt(file)
 
 if __name__ == '__main__':
 	main()

@@ -1,0 +1,929 @@
+AC1740001.pdf	slNo1	House No.:.Eshwarappa Venkatalakshmi SVF5421417Sex: FemaleAge: 31Husband's Name:
+AC1740001.pdf	slNo2	House No.:.Venkatesha Shreerama SVF5421409Sex: MaleAge: 21Father's Name:
+AC1740001.pdf	slNo3	House No.:.Sabanna Ningappa SVF5421375Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo4	House No.:.Doddamuniyappa Ratnamma SVF5421367Sex: FemaleAge: 38Father's Name:
+AC1740001.pdf	slNo5	House No.:.Doddamuniyappa M Madu SVF5421359Sex: MaleAge: 21Father's Name:
+AC1740001.pdf	slNo6	House No.:.Muniswomi Raju SVF5421326Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo7	House No.:.Venkateshamma Gowramma SVF5421318Sex: FemaleAge: 23Mother's Name:
+AC1740001.pdf	slNo8	House No.:.Shekar Kantamma SVF5421300Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo9	House No.:.Muniyappa Chennamma SVF5421292Sex: FemaleAge: 22Father's Name:
+AC1740001.pdf	slNo10	House No.:.Channakrushna Manjula SVF5421284Sex: FemaleAge: 30Husband's Name:
+AC1740001.pdf	slNo11	House No.:.Hanumappa Hanumantharaya SVF5421276Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo12	House No.:.Katappa Deepa SVF5421433Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo13	House No.:.Channappa Bhagyamma SVF5421243Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo14	House No.:.Venkatesha Kavita SVF5421177Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo15	House No.:.Yallappa Venkatesh SVF5421169Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo16	House No.:.Venkataramanappa Lakshmamma SVF5420765Sex: FemaleAge: 38Husband's Name:
+AC1740001.pdf	slNo17	House No.:.Channkrishna NaniManjula SVF5421193Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo18	House No.:.SHIVAKUMAR Gayathri S SVF6882336Sex: FemaleAge: 46Husband's Name:
+AC1740001.pdf	slNo19	House No.:.Nagarajappa Anjinamma SVF6882369Sex: FemaleAge: 41Husband's Name:
+AC1740001.pdf	slNo20	House No.:.Kumar Shashikala.M. SVF6882427Sex: FemaleAge: 19Father's Name:
+AC1740001.pdf	slNo21	House No.:.V. Kumar Shashikala.M. SVF6882476Sex: FemaleAge: 19Father's Name:
+AC1740001.pdf	slNo22	House No.:-M Chikkegowda Chaitra SVF5471982Sex: FemaleAge: 21Husband's Name:
+AC1740001.pdf	slNo23	House No.:-Putta Shetty Harish Y P SVF5995923Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo24	House No.:-Bhaskar Dasharatha SVF5995915Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo25	House No.:-krishnappa Rathnamma SVF5789888Sex: FemaleAge: 42Husband's Name:
+AC1740001.pdf	slNo26	House No.:-krishnappa Suman.K SVF5789813Sex: MaleAge: 21Father's Name:
+AC1740001.pdf	slNo27	House No.:-ayan perumal Ayanar.I SVF5789854Sex: MaleAge: 31Father's Name:
+AC1740001.pdf	slNo28	House No.:-ayan perumal Kumar SVF5789763Sex: MaleAge: 30Father's Name:
+AC1740001.pdf	slNo29	House No.:-balappa Dayashila SVF5789722Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo30	House No.:-kashappa Bhaskar SVF5789649Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo31	House No.:-shivappa Thayamma SVF5789375Sex: FemaleAge: 70Husband's Name:
+AC1740001.pdf	slNo32	House No.:-Timmayya Srikanth SVF5995832Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo33	House No.:-Siddappa S.Hanumantha SVF5995840Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo34	House No.:-Gurappa Sabamma SVF5519780Sex: FemaleAge: 32Husband's Name:
+AC1740001.pdf	slNo35	House No.:-rajanna Chandrika.R SVF5789615Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo36	House No.:-YAMANAPPA Hanumatha SVF5789672Sex: MaleAge: 31Father's Name:
+AC1740001.pdf	slNo37	House No.:-thimmiah Hanumavha SVF5789797Sex: FemaleAge: 42Husband's Name:
+AC1740001.pdf	slNo38	House No.:-Yamanappa Basavaraju SVF6366405Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo39	House No.:-mohammad hafij Noor Alima SVF6374581Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo40	House No.:-ramachandappa Krishnappa SVF6380919Sex: MaleAge: 47Father's Name:
+AC1740001.pdf	slNo41	House No.:-Balachandrappa Kavitha SVF6381354Sex: FemaleAge: 20Husband's Name:
+AC1740001.pdf	slNo42	House No.:-bhema Rathnmma SVF6340871Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo43	House No.:-Rajappa Ashok SVF6343883Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo44	House No.:-Raja Sunitha SVF6351167Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo45	House No.:-Gyanamutti Raja SVF6385272Sex: MaleAge: 33Father's Name:
+AC1740001.pdf	slNo46	House No.:-Yamunappa Shivappa SVF6387617Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo47	House No.:-Tippanna Somappa SVF6390827Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo48	House No.:-Settu Raja SVF6393755Sex: MaleAge: 30Father's Name:
+AC1740001.pdf	slNo49	House No.:-chinnathanbi Raju C SVF6407043Sex: MaleAge: 33Father's Name:
+AC1740001.pdf	slNo50	House No.:-Ramakrishna Ramurthy SVF6413900Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo51	House No.:-mahammad hanij Alima Kathun SVF6417448Sex: FemaleAge: 44Husband's Name:
+AC1740001.pdf	slNo52	House No.:-Lachanna Devi Bai SVF6418339Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo53	House No.:-Kannappa Tirupati SVF6422513Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo54	House No.:-Bimaraya Anumantha SVF6424394Sex: MaleAge: 52Father's Name:
+AC1740001.pdf	slNo55	House No.:-Aiahna darmapal Kumar SVF6431118Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo56	House No.:-Sunadappa Satisha SVF6431977Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo57	House No.:-Satish Rajamma SVF6438477Sex: FemaleAge: 26Husband's Name:
+AC1740001.pdf	slNo58	House No.:-Mahamad Hasim Mahamad Alli SVF6443212Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo59	House No.:-Anumantha Bimaraya SVF6455620Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo60	House No.:-siddappa Joythi SVF6456842Sex: FemaleAge: 23Husband's Name:
+AC1740001.pdf	slNo61	House No.:-bhasakar Jayamma SVF6459085Sex: FemaleAge: 52Husband's Name:
+AC1740001.pdf	slNo62	House No.:-Ramurthy Latha SVF6460265Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo63	House No.:-Rangappa Sabanna SVF6463905Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo64	House No.:-Danja nayak Lakshmanna SVF6464911Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo65	House No.:-Swami Vela Raju SVF6465009Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo66	House No.:-Lt. Anand Jayamma SVF6469225Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo67	House No.:-Balappa Balachandra SVF6446900Sex: MaleAge: 52Father's Name:
+AC1740001.pdf	slNo68	House No.:-Raju Yallamma SVF6447213Sex: FemaleAge: 30Husband's Name:
+AC1740001.pdf	slNo69	House No.:-Boddappa Siddappa SVF6470314Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo70	House No.:-Seemana Beema SVF6477095Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo71	House No.:-Somitrappa Divita SVF6478648Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo72	House No.:-Beemanna Lipanna SVF6483911Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo73	House No.:-Raj Ranimma SVF6487649Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo74	House No.:-harish y p H A Bhebi SVF6487912Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo75	House No.:-Harish Pavithra H SVF6582688Sex: FemaleAge: 23Husband's Name:
+AC1740001.pdf	slNo76	House No.:-RAMACHANDRAPPA Nagarjuna SVF6775704Sex: MaleAge: 20Father's Name:
+AC1740001.pdf	slNo77	House No.:-Anumantha Sarojamma SVF6448328Sex: FemaleAge: 47Husband's Name:
+AC1740001.pdf	slNo78	House No.:P.M Manjunath BuidingJaijab Ali Ansar Ahmed TapadarSVF6811350Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo79	House No.:0Linge Gowda Bheemanna SVF4959680Sex: MaleAge: 54Father's Name:
+AC1740001.pdf	slNo80	House No.:0Ayyanara Parimala SVF4959714Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo81	House No.:0Kanda Swamy Chandra SVF4959722Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo82	House No.:0Basavaraj Channamma SVF4959730Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo83	House No.:0Revanna Siddappa Kashiyappa SVF4959748Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo84	House No.:0Muni Venkatappa Harish M SVF4959755Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo85	House No.:0Subaramani Muruga SVF4959763Sex: MaleAge: 30Father's Name:
+AC1740001.pdf	slNo86	House No.:0Armugam Shiva SVF4959771Sex: MaleAge: 39Father's Name:
+AC1740001.pdf	slNo87	House No.:0Peripaiah Palani Swmay SVF4959805Sex: MaleAge: 59Father's Name:
+AC1740001.pdf	slNo88	House No.:0Kandha Swamy Suresh SVF4959813Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo89	House No.:0Devaraj Madesha SVF4959821Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo90	House No.:0Chinnapaiah Shetty SVF4959847Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo91	House No.:0Peritambi Rajani SVF4959854Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo92	House No.:0Channaiah Peritanbi SVF4959870Sex: MaleAge: 46Father's Name:
+AC1740001.pdf	slNo93	House No.:0Mohammed Sulaiman Mohammed Hafeez SVF4966198Sex: MaleAge: 46Father's Name:
+AC1740001.pdf	slNo94	House No.:0Kandaswamy Viji SVF4966214Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo95	House No.:0Kaliyappa Chinna Swamy SVF4964508Sex: MaleAge: 36Father's Name:
+AC1740001.pdf	slNo96	House No.:0Venkatesh Katappa V SVF4964565Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo97	House No.:0Marimuttu Sangodi SVF4970513Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo98	House No.:0Hanumanthappa Yashodhamma SVF4970083Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo99	House No.:0Palani Swamy Pungodi SVF4970554Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo100	House No.:0Palani Murugeshan SVF4970547Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo101	House No.:0Mariyappa M Sattivelu SVF4970562Sex: MaleAge: 49Father's Name:
+AC1740001.pdf	slNo102	House No.:0Maranna Murali SVF4970109Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo103	House No.:0Late Huchappa Hanumanthappa SVF4970133Sex: MaleAge: 40Father's Name:
+AC1740001.pdf	slNo104	House No.:0Narayanaswamy Muniyamma SVF5001821Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo105	House No.:0Munianjinappa Esthar SVF5001847Sex: FemaleAge: 34Father's Name:
+AC1740001.pdf	slNo106	House No.:0Kandhappa Amaravathi SVF5001839Sex: FemaleAge: 28Father's Name:
+AC1740001.pdf	slNo107	House No.:0Muniraja Narasamma SVF5001813Sex: FemaleAge: 24Husband's Name:
+AC1740001.pdf	slNo108	House No.:0Doddamuniyappa Venkataswamy M SVF5001763Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo109	House No.:0Valasamma Sherin Wargis SVF5001805Sex: MaleAge: 24Mother's Name:
+AC1740001.pdf	slNo110	House No.:0Chika Muniyappa Venkatesh M SVF5001748Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo111	House No.:0Muni anjinappa Nagarju A M SVF5001771Sex: MaleAge: 39Father's Name:
+AC1740001.pdf	slNo112	House No.:0Narasimhayya Kanthamma SVF5001797Sex: FemaleAge: 26Husband's Name:
+AC1740001.pdf	slNo113	House No.:0Narayanappa Muniraja SVF5001706Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo114	House No.:0Bhasha M Jahidha SVF5001672Sex: FemaleAge: 34Husband's Name:
+AC1740001.pdf	slNo115	House No.:0Nagaraju AM Katamma SVF5001698Sex: FemaleAge: 24Father's Name:
+AC1740001.pdf	slNo116	House No.:0chika muniyappa Kumara M SVF5001656Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo117	House No.:0Kandhappa Shambu SVF5001714Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo118	House No.:0Ganesh Muniakayyamma SVF5001730Sex: FemaleAge: 24Husband's Name:
+AC1740001.pdf	slNo119	House No.:0Katappa Manjula SVF5001631Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo120	House No.:02Velayudan Ravi K V SVF5421334Sex: MaleAge: 47Father's Name:
+AC1740001.pdf	slNo121	House No.:3Ramegowda Chennakeshava SVF3000064Sex: MaleAge: 69Father's Name:
+AC1740001.pdf	slNo122	House No.:3Channakeshava Venkatalakshmamma SVF3000072Sex: FemaleAge: 64Husband's Name:
+AC1740001.pdf	slNo123	House No.:3Jatteppa Madar Parvathi SVF5519566Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo124	House No.:4Rajanna Ashwathamma DHD8022196Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo125	House No.:4Muniyappa Rajanna SVF3000080Sex: MaleAge: 42Father's Name:
+AC1740001.pdf	slNo126	House No.:4BHAGABAT SAHOOPradeep Kumar SahooSVF6775712Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo127	House No.:5Subbegowda Venkamma 555021Sex: FemaleAge: 69Husband's Name:
+AC1740001.pdf	slNo128	House No.:5Chennappa Kamala 555291Sex: FemaleAge: 43Husband's Name:
+AC1740001.pdf	slNo129	House No.:5Subbegowda Chennappa SVF3000056Sex: MaleAge: 52Father's Name:
+AC1740001.pdf	slNo130	House No.:6Ramegowda Ramakrishnappa SVF0391615Sex: MaleAge: 55Father's Name:
+AC1740001.pdf	slNo131	House No.:6Ramakrishnappa Rajamma 555289Sex: FemaleAge: 45Husband's Name:
+AC1740001.pdf	slNo132	House No.:6Ramakrishnappa Ramegowda DHD8022071Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo133	House No.:6Ramakrishnappa Kashi Vishvanatha DHD8022352Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo134	House No.:6Ramakrishnappa Lokesh M R SVF4500013Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo135	House No.:6Hanumantha Photo Not  AvailableSabamma SVF5519749Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo136	House No.:6Hanumantha Eshappa SVF5519699Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo137	House No.:6Gurappa Hanumantha SVF5519731Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo138	House No.:6Kariyappa Hanumantha SVF5519657Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo139	House No.:7Gudiyappa Madesh DHD9127267Sex: MaleAge: 41Father's Name:
+AC1740001.pdf	slNo140	House No.:7Madesha Manjula DHD9126582Sex: FemaleAge: 36Husband's Name:
+AC1740001.pdf	slNo141	House No.:8Venkatarayappa Narayanappa 555024Sex: MaleAge: 52Father's Name:
+AC1740001.pdf	slNo142	House No.:8Narayanappa Ramakka 555025Sex: FemaleAge: 45Husband's Name:
+AC1740001.pdf	slNo143	House No.:9Venkatarayappa Munegowda 555026Sex: MaleAge: 63Father's Name:
+AC1740001.pdf	slNo144	House No.:9Munegowda Tayamma 555027Sex: FemaleAge: 51Husband's Name:
+AC1740001.pdf	slNo145	House No.:9Munegowda Puttaraju DHD8022378Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo146	House No.:9Munegowda Chandra DHD8022253Sex: FemaleAge: 34Father's Name:
+AC1740001.pdf	slNo147	House No.:9M.Puttaraju B.Mamatha SVF2382133Sex: FemaleAge: 30Husband's Name:
+AC1740001.pdf	slNo148	House No.:9M.Chandru D.K.Dipa SVF3000098Sex: FemaleAge: 29Husband's Name:
+AC1740001.pdf	slNo149	House No.:10Meese Chennappa Nagaraja SVF3000106Sex: MaleAge: 42Father's Name:
+AC1740001.pdf	slNo150	House No.:10Nagaraja Uma SVF3000114Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo151	House No.:11Meese Channappa Chandru SVF3000122Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo152	House No.:11Ramesh Mahalakshmi M SVF5001664Sex: FemaleAge: 24Husband's Name:
+AC1740001.pdf	slNo153	House No.:12Meese Channappa Narayanaswamy DHD8023004Sex: MaleAge: 42Father's Name:
+AC1740001.pdf	slNo154	House No.:12Narayanaswamy Shudha DHD8022576Sex: FemaleAge: 34Husband's Name:
+AC1740001.pdf	slNo155	House No.:12Uday bhaskar Rao Santhi Ithamraju SVF6775746Sex: FemaleAge: 52Husband's Name:
+AC1740001.pdf	slNo156	House No.:13Meese Channappa Ashvathhappa SVF3000148Sex: MaleAge: 50Father's Name:
+AC1740001.pdf	slNo157	House No.:13Ashwathappa Meenakshi SVF3000155Sex: FemaleAge: 46Husband's Name:
+AC1740001.pdf	slNo158	House No.:14Narayanappa N Chennappa DHD8022063Sex: MaleAge: 74Father's Name:
+AC1740001.pdf	slNo159	House No.:14Chennappa Jayamma DHD8022337Sex: FemaleAge: 64Husband's Name:
+AC1740001.pdf	slNo160	House No.:15Munichikkanna Kempanna DHD7319783Sex: MaleAge: 64Father's Name:
+AC1740001.pdf	slNo161	House No.:15Kempanna Ramakka DHD8023053Sex: FemaleAge: 61Husband's Name:
+AC1740001.pdf	slNo162	House No.:15Kempanna Muniraja DHD7318892Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo163	House No.:15Muniraju Kalavathi DHD7319791Sex: FemaleAge: 32Husband's Name:
+AC1740001.pdf	slNo164	House No.:15Nagaraju . C Uma . M SVF6445738Sex: FemaleAge: 38Husband's Name:
+AC1740001.pdf	slNo165	House No.:16Munichikkanna Ramakrishna M DHD9126889Sex: MaleAge: 61Father's Name:
+AC1740001.pdf	slNo166	House No.:16Ramakrishna Ravikumar DHD7318819Sex: MaleAge: 38Father's Name:
+AC1740001.pdf	slNo167	House No.:16Ramakrishnappa Munegowda R DHD7319916Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo168	House No.:16Ravikumar Rathnamma SVF3000163Sex: FemaleAge: 29Husband's Name:
+AC1740001.pdf	slNo169	House No.:16Chandra . C Neela . M SVF6429401Sex: FemaleAge: 23Husband's Name:
+AC1740001.pdf	slNo170	House No.:17Munichikkanna Narayanaswamy SVF0391573Sex: MaleAge: 56Father's Name:
+AC1740001.pdf	slNo171	House No.:17Narayanaswamy Shanthamma KT/12/099/555035Sex: FemaleAge: 54Husband's Name:
+AC1740001.pdf	slNo172	House No.:17Narayanaswamy Ramesh DHD7319031Sex: MaleAge: 38Father's Name:
+AC1740001.pdf	slNo173	House No.:17Ramesh Pushpa DHD8022543Sex: FemaleAge: 34Husband's Name:
+AC1740001.pdf	slNo174	House No.:17Ashwathappa Shasidara SVF6451314Sex: MaleAge: 21Father's Name:
+AC1740001.pdf	slNo175	House No.:18Munegowda Chennegowda SVF0391441Sex: MaleAge: 67Father's Name:
+AC1740001.pdf	slNo176	House No.:18Chennegowda Shanthamma DHD8022329Sex: FemaleAge: 54Husband's Name:
+AC1740001.pdf	slNo177	House No.:18Channegaud Shashikala SVF0391524Sex: FemaleAge: 26Father's Name:
+AC1740001.pdf	slNo178	House No.:18mattayappa Vinod SVF5519491Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo179	House No.:18Bhimayya Mallikarjuna SVF5519517Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo180	House No.:19Narayanagowda Kempamma SVF0391631Sex: FemaleAge: 84Husband's Name:
+AC1740001.pdf	slNo181	House No.:19Narayanagowda Munegowda DHD8022121Sex: MaleAge: 49Father's Name:
+AC1740001.pdf	slNo182	House No.:19Narayanagowda Chennakrishnegowda DHD7317688Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo183	House No.:19Chennakrishnegowda Shantha DHD8022303Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo184	House No.:19Narayanagowda Mahendra SVF0391581Sex: MaleAge: 38Father's Name:
+AC1740001.pdf	slNo185	House No.:19Munegowda Radhamma DHD8022295Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo186	House No.:19Narayanagowda Mahesha DHD7317670Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo187	House No.:19Kashivishwanath Nagaswathi R SVF5421227Sex: FemaleAge: 23Husband's Name:
+AC1740001.pdf	slNo188	House No.:19Ramegowda Chaithra H K DeepuSVF5429899Sex: FemaleAge: 31Husband's Name:
+AC1740001.pdf	slNo189	House No.:20Patalappa Nanjamma DHD8023061Sex: FemaleAge: 44Husband's Name:
+AC1740001.pdf	slNo190	House No.:20Bhairappa Krishnamma DHD8022964Sex: FemaleAge: 87Husband's Name:
+AC1740001.pdf	slNo191	House No.:20Patalappa Chakkegowda SVF0391599Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo192	House No.:20Patalappa Bhairegowda SVF3000171Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo193	House No.:20Narayanappa Nandan. N SVF6383749Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo194	House No.:21Munihemanna Patalamma DHD8022212Sex: FemaleAge: 69Husband's Name:
+AC1740001.pdf	slNo195	House No.:21Munihemanna Shanthamma Sex: FemaleAge: 44Father's Name:
+AC1740001.pdf	slNo196	House No.:22Hemanna Krishnamurthy DHD9127002Sex: MaleAge: 58Father's Name:
+AC1740001.pdf	slNo197	House No.:22Krishnamurty Sumithramma DHD8022717Sex: FemaleAge: 49Husband's Name:
+AC1740001.pdf	slNo198	House No.:23Hemanna Puttamma DHD8022345Sex: FemaleAge: 83Husband's Name:
+AC1740001.pdf	slNo199	House No.:23Hemanna Krishnappa SVF3000031Sex: MaleAge: 43Father's Name:
+AC1740001.pdf	slNo200	House No.:23Krishnappa Prema DHD8022725Sex: FemaleAge: 38Husband's Name:
+AC1740001.pdf	slNo201	House No.:24Hemanna Narayanappa SVF3000015Sex: MaleAge: 53Father's Name:
+AC1740001.pdf	slNo202	House No.:24Narayanappa Kanthamma SVF3000023Sex: FemaleAge: 48Husband's Name:
+AC1740001.pdf	slNo203	House No.:24Govindaraju Chandrakala Sex: FemaleAge: 26Father's Name:
+AC1740001.pdf	slNo204	House No.:25K Hemanna Sundararaj SVF2381812Sex: MaleAge: 46Father's Name:
+AC1740001.pdf	slNo205	House No.:25Sundararaj Usha SVF2381929Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo206	House No.:26Hemanna Devaraja DHD8022659Sex: MaleAge: 36Father's Name:
+AC1740001.pdf	slNo207	House No.:26Devaraju Aasha DHD8022642Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo208	House No.:27Hemanna Govindaraja DHD8022915Sex: MaleAge: 35Father's Name:
+AC1740001.pdf	slNo209	House No.:27Govindaraju Lakshmidevi SVF0391409Sex: FemaleAge: 34Husband's Name:
+AC1740001.pdf	slNo210	House No.:27Katappa V Gayathri M SVF5421219Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo211	House No.:27Venkateshappa Murty SVF5421201Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo212	House No.:27Venkateshappa Muniraju V SVF5421185Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo213	House No.:27Venkateshappa Ramakka SVF5421383Sex: FemaleAge: 43Husband's Name:
+AC1740001.pdf	slNo214	House No.:27Venkatesh Chandramma V SVF5519632Sex: FemaleAge: 20Father's Name:
+AC1740001.pdf	slNo215	House No.:27R Munegowda V Bhanumathi SVF6534036Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo216	House No.:28Ramachandra Sumangal SVF2382125Sex: FemaleAge: 30Husband's Name:
+AC1740001.pdf	slNo217	House No.:28Gowtham Prasdh Indhu Vishwakarma SVF5001680Sex: FemaleAge: 39Mother's Name:
+AC1740001.pdf	slNo218	House No.:29Kenchappa Chennappa KT/99/174/555215Sex: MaleAge: 64Father's Name:
+AC1740001.pdf	slNo219	House No.:29Chennappa Karagamma 555167Sex: FemaleAge: 59Husband's Name:
+AC1740001.pdf	slNo220	House No.:29Chennappa Muniraja 555305Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo221	House No.:29Muniraja Lalitha DHD8022550Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo222	House No.:30Channarayappa Muniyappa DHD8022089Sex: MaleAge: 77Father's Name:
+AC1740001.pdf	slNo223	House No.:30Muniyappa Nanjamma DHD8022311Sex: FemaleAge: 82Husband's Name:
+AC1740001.pdf	slNo224	House No.:30Muniyappa Ramachandra DHD8022055Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo225	House No.:30Ramachandra R Rathnamma DHD8022774Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo226	House No.:30Ramesh Nethravathi SVF3000569Sex: FemaleAge: 29Husband's Name:
+AC1740001.pdf	slNo227	House No.:30/AMayank SinghShradda SinghSVF5167101Sex: FemaleAge: 38Husband's Name:
+AC1740001.pdf	slNo228	House No.:31Venkatarayappa Ramakka SVF0391482Sex: FemaleAge: 81Husband's Name:
+AC1740001.pdf	slNo229	House No.:31Venkatarayappa Krishnappa SVF0391540Sex: MaleAge: 51Father's Name:
+AC1740001.pdf	slNo230	House No.:31Krishnappa Chandramma DHD8022766Sex: FemaleAge: 38Husband's Name:
+AC1740001.pdf	slNo231	House No.:31Venkatarayappa Channerayappa GajendraDHD8022501Sex: MaleAge: 49Father's Name:
+AC1740001.pdf	slNo232	House No.:31Channerayappa Sujatha DHD8022782Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo233	House No.:31Venkatarayappa Shivanna SVF0391649Sex: MaleAge: 42Father's Name:
+AC1740001.pdf	slNo234	House No.:31Shivanna Kamala DHD8022816Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo235	House No.:31Venkatarayappa Channakrishana SVF0391490Sex: MaleAge: 39Father's Name:
+AC1740001.pdf	slNo236	House No.:31Vijay Kumar Deepika V SVF5429915Sex: FemaleAge: 23Father's Name:
+AC1740001.pdf	slNo237	House No.:32Shekharappa Padmamma DHD9127051Sex: FemaleAge: 49Husband's Name:
+AC1740001.pdf	slNo238	House No.:32Shekharappa Anitha SVF2382117Sex: FemaleAge: 28Father's Name:
+AC1740001.pdf	slNo239	House No.:32Lekempanna Shekharappa DHD9126384Sex: MaleAge: 51Father's Name:
+AC1740001.pdf	slNo240	House No.:33Papanna Patalappa DHD8022931Sex: MaleAge: 49Father's Name:
+AC1740001.pdf	slNo241	House No.:33Patalappa Parvathamma DHD9126574Sex: FemaleAge: 45Husband's Name:
+AC1740001.pdf	slNo242	House No.:33Patalappa Channakeshavappa DHD9126392Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo243	House No.:33Patalappa P.Prabhakar SVF3000189Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo244	House No.:33Channakeshav Nandini  S SVF4570024Sex: FemaleAge: 26Husband's Name:
+AC1740001.pdf	slNo245	House No.:34Palani Gowdar Rangaswamy DHD9126616Sex: MaleAge: 64Father's Name:
+AC1740001.pdf	slNo246	House No.:34Rangaswamy Perithay DHD9126640Sex: FemaleAge: 58Husband's Name:
+AC1740001.pdf	slNo247	House No.:34Rangaswamy Palaniswami DHD9126830Sex: MaleAge: 41Father's Name:
+AC1740001.pdf	slNo248	House No.:34Palaniswamy Lakshmi DHD9127010Sex: FemaleAge: 36Husband's Name:
+AC1740001.pdf	slNo249	House No.:34Papanna Papamma SVF3000197Sex: FemaleAge: 84Husband's Name:
+AC1740001.pdf	slNo250	House No.:34Papanna Kempanna SVF3000205Sex: MaleAge: 49Father's Name:
+AC1740001.pdf	slNo251	House No.:34Kempanna Pillamma SVF3000213Sex: FemaleAge: 44Husband's Name:
+AC1740001.pdf	slNo252	House No.:34Shekharappa Munegowda SVF5421342Sex: MaleAge: 22Father's Name:
+AC1740001.pdf	slNo253	House No.:35Bachappa Mariyappa SVF3000221Sex: MaleAge: 58Father's Name:
+AC1740001.pdf	slNo254	House No.:35Mariyappa Rathnamma DHD8022691Sex: FemaleAge: 52Husband's Name:
+AC1740001.pdf	slNo255	House No.:35Mariyappa M.Venkatesha SVF2384857Sex: MaleAge: 30Father's Name:
+AC1740001.pdf	slNo256	House No.:35Munidalappa Ravi Kumar M SVF5519707Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo257	House No.:35Munnidalappa Muniyappa SVF5519582Sex: MaleAge: 36Father's Name:
+AC1740001.pdf	slNo258	House No.:36Addappa Kandappa DHD9126673Sex: MaleAge: 55Father's Name:
+AC1740001.pdf	slNo259	House No.:36Kandappa Kandai DHD9126681Sex: FemaleAge: 54Husband's Name:
+AC1740001.pdf	slNo260	House No.:36Muniraju Vishalakshi DHD9126467Sex: FemaleAge: 32Father's Name:
+AC1740001.pdf	slNo261	House No.:36Chennappa C Muniraja DHD8022493Sex: MaleAge: 52Father's Name:
+AC1740001.pdf	slNo262	House No.:36C.Muniraju Lakshmamma DHD8022675Sex: FemaleAge: 44Husband's Name:
+AC1740001.pdf	slNo263	House No.:36C  Muniraj M  Chethana Kumar SVF2381820Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo264	House No.:36M  Muniraju Munegowda    M SVF2382307Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo265	House No.:36Venkataramanappa Hemavathi SVF5519608Sex: FemaleAge: 21Father's Name:
+AC1740001.pdf	slNo266	House No.:37Kempanna Doddananjappa DHD8022832Sex: MaleAge: 69Father's Name:
+AC1740001.pdf	slNo267	House No.:37Doddananjappa Rajendra DHD8022865Sex: MaleAge: 43Father's Name:
+AC1740001.pdf	slNo268	House No.:37Rajendra Radha DHD9126558Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo269	House No.:37Doddananjappa Subramani DHD8022519Sex: MaleAge: 40Father's Name:
+AC1740001.pdf	slNo270	House No.:37Doddananjappa Parvathamma DHD8022972Sex: FemaleAge: 64Husband's Name:
+AC1740001.pdf	slNo271	House No.:37Kempanna Chikkananjappa DHD8022618Sex: MaleAge: 57Father's Name:
+AC1740001.pdf	slNo272	House No.:37Chikkananjappa Gowramma DHD8022824Sex: FemaleAge: 49Husband's Name:
+AC1740001.pdf	slNo273	House No.:37Subramani Komala DHD8022394Sex: FemaleAge: 34Husband's Name:
+AC1740001.pdf	slNo274	House No.:37Kempanna Papanna DHD9126483Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo275	House No.:37Chikkananjappa Shashikumar SVF2382109Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo276	House No.:37Kempanna Vijayakumar DHD8022113Sex: MaleAge: 47Father's Name:
+AC1740001.pdf	slNo277	House No.:37Vijayakumara Manjula DHD8022428Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo278	House No.:37Katappa Shobharani K SVF5001755Sex: FemaleAge: 23Father's Name:
+AC1740001.pdf	slNo279	House No.:38Motappa Ramachandra DHD8023012Sex: MaleAge: 47Father's Name:
+AC1740001.pdf	slNo280	House No.:38Ramachandra Rathnamma SVF0391466Sex: FemaleAge: 32Husband's Name:
+AC1740001.pdf	slNo281	House No.:38Ramachandra Lakshmamma DHD8023046Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo282	House No.:38Venkatesh Lakshmi V SVF5519558Sex: FemaleAge: 20Father's Name:
+AC1740001.pdf	slNo283	House No.:39Koorappa Muniyappa DHD8022741Sex: MaleAge: 64Father's Name:
+AC1740001.pdf	slNo284	House No.:39Palaniswamy Pungodi DHD9126608Sex: FemaleAge: 41Husband's Name:
+AC1740001.pdf	slNo285	House No.:39Peripaiah Palaniswami DHD9126871Sex: MaleAge: 51Father's Name:
+AC1740001.pdf	slNo286	House No.:40Koorappa Munydalappa SVF3000247Sex: MaleAge: 67Father's Name:
+AC1740001.pdf	slNo287	House No.:40Munydalappa Gowramma SVF3000254Sex: FemaleAge: 54Husband's Name:
+AC1740001.pdf	slNo288	House No.:40Munydalappa Ramesh DHD8022881Sex: MaleAge: 31Father's Name:
+AC1740001.pdf	slNo289	House No.:40Munidalappa Ravikumar SVF2382174Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo290	House No.:41Channerayappa Venkataramanappa SVF3000296Sex: MaleAge: 61Father's Name:
+AC1740001.pdf	slNo291	House No.:41Venkataramanappa Akkayyamma SVF3000304Sex: FemaleAge: 54Husband's Name:
+AC1740001.pdf	slNo292	House No.:41Venkataramanappa Chennekrishna DHD7318090Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo293	House No.:41Venkataramanappa Chandnaray SVF2381887Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo294	House No.:42Hemanna Munivenkatamma DHD9126921Sex: FemaleAge: 66Husband's Name:
+AC1740001.pdf	slNo295	House No.:42Hemanna Venkatesh DHD8123614Sex: MaleAge: 50Father's Name:
+AC1740001.pdf	slNo296	House No.:42Venkateswa Munirathnamma DHD8022154Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo297	House No.:42Allura Muniyappa Mahesh M SVF4964524Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo298	House No.:43Chikkavenkatappa Katappa SVF0391417Sex: MaleAge: 50Father's Name:
+AC1740001.pdf	slNo299	House No.:43Katappa Katamma SVF0391474Sex: FemaleAge: 43Husband's Name:
+AC1740001.pdf	slNo300	House No.:43Sidayya Devaraj K S SVF5519574Sex: MaleAge: 31Father's Name:
+AC1740001.pdf	slNo301	House No.:44Chikkavenkatappa Doddamuniyappa DHD7316284Sex: MaleAge: 82Father's Name:
+AC1740001.pdf	slNo302	House No.:44Doddamuniyappa Muniakkaiamma DHD7316292Sex: FemaleAge: 42Husband's Name:
+AC1740001.pdf	slNo303	House No.:44Doddamuniyappa M.Narayanaswamy SVF2381770Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo304	House No.:44Narayana Swamy M N Pushpa SVF4959839Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo305	House No.:44Yamanur Saab M Basha SVF4966206Sex: MaleAge: 39Father's Name:
+AC1740001.pdf	slNo306	House No.:44Doddamuniyappa M. Venkataswamy SVF6408116Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo307	House No.:44Venkataswamy M Chaithra V SVF6555866Sex: FemaleAge: 24Husband's Name:
+AC1740001.pdf	slNo308	House No.:45Chikkamuniyappa Rathnamma SVF2381119Sex: FemaleAge: 83Husband's Name:
+AC1740001.pdf	slNo309	House No.:46Shivanna Shrinivas SVF2381846Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo310	House No.:46Hemanna Shivanna DHD7318116Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo311	House No.:46Srinivas Shobha SVF5519616Sex: FemaleAge: 22Husband's Name:
+AC1740001.pdf	slNo312	House No.:47Munydalappa Muniyappa SVF3000270Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo313	House No.:47Muniyappa Parvathamma DHD8022444Sex: FemaleAge: 34Husband's Name:
+AC1740001.pdf	slNo314	House No.:47Hallur Muniyappa Suresh M SVF5429907Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo315	House No.:48Muniyappa Maheshamma SVF2381945Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo316	House No.:48Channerayappa Muniyappa SVF2381952Sex: MaleAge: 54Father's Name:
+AC1740001.pdf	slNo317	House No.:48Abraham Tomy Abraham SVF5494422Sex: MaleAge: 56Father's Name:
+AC1740001.pdf	slNo318	House No.:48Ningappa Mariyamma SVF5519590Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo319	House No.:49Motappa Muniraja DHD8022360Sex: MaleAge: 62Father's Name:
+AC1740001.pdf	slNo320	House No.:49Muniraja Prabhavathi DHD8022436Sex: FemaleAge: 52Husband's Name:
+AC1740001.pdf	slNo321	House No.:49Muniraja Suneel Babu DHD8022287Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo322	House No.:49Muniraja Anuradha SVF2382190Sex: FemaleAge: 32Father's Name:
+AC1740001.pdf	slNo323	House No.:49Hanumantharaya Hanamavva SVF5519665Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo324	House No.:49Tirumalamma Kumar SVF6882450Sex: MaleAge: 19Mother's Name:
+AC1740001.pdf	slNo325	House No.:50Katappa Narayanamma DHD8022733Sex: FemaleAge: 85Husband's Name:
+AC1740001.pdf	slNo326	House No.:50Narasimhaiah Katamma DHD8122988Sex: FemaleAge: 48Husband's Name:
+AC1740001.pdf	slNo327	House No.:50Narasimhaiah Lakshmamma SVF0391433Sex: FemaleAge: 34Others Name:
+AC1740001.pdf	slNo328	House No.:52Munikrishnappa Katamma DHD8022949Sex: FemaleAge: 43Husband's Name:
+AC1740001.pdf	slNo329	House No.:52NArayanamma Lakshmi SVF5519764Sex: FemaleAge: 24Husband's Name:
+AC1740001.pdf	slNo330	House No.:52Late Narashimappa Narayanamma SVF5519509Sex: FemaleAge: 52Husband's Name:
+AC1740001.pdf	slNo331	House No.:53Narasinhaiah N .Kanthamma SVF2382026Sex: FemaleAge: 30Husband's Name:
+AC1740001.pdf	slNo332	House No.:53Muniraja Narasinhaiah SVF2381861Sex: MaleAge: 35Father's Name:
+AC1740001.pdf	slNo333	House No.:53Narayanswomi Puttaraju N SVF5421235Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo334	House No.:53Narayanswami Kantamma SVF5421441Sex: FemaleAge: 25Father's Name:
+AC1740001.pdf	slNo335	House No.:53Krishnappa Prakash SVF5519772Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo336	House No.:53Devaraj K S Roopa Devaraj SVF5519475Sex: FemaleAge: 22Husband's Name:
+AC1740001.pdf	slNo337	House No.:53/1B Pedabba Reddy B Subramaniyam SVF5519681Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo338	House No.:53/1B Pedabba Reddy B Srinivasalu SVF5519525Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo339	House No.:54Muniyappa Chennappa DHD7316987Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo340	House No.:54Chennappa Padma DHD7316995Sex: FemaleAge: 34Husband's Name:
+AC1740001.pdf	slNo341	House No.:54Muniyappa Suresh M SVF5001789Sex: MaleAge: 23Father's Name:
+AC1740001.pdf	slNo342	House No.:54Madhu.S.J Sowmya.P SVF6882419Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo343	House No.:55Muniyappa Muniraja DHD8022634Sex: MaleAge: 35Father's Name:
+AC1740001.pdf	slNo344	House No.:55Muniraj Manjula SVF2381937Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo345	House No.:55Muniyappa Muniraju SVF5519715Sex: MaleAge: 30Father's Name:
+AC1740001.pdf	slNo346	House No.:56Late  Muniraju Venkateshamma SVF2381838Sex: FemaleAge: 54Husband's Name:
+AC1740001.pdf	slNo347	House No.:57Thayappa Narayanaswamy DHD7316607Sex: MaleAge: 48Father's Name:
+AC1740001.pdf	slNo348	House No.:57Narayanaswamy Akkayyamma DHD7316599Sex: FemaleAge: 44Husband's Name:
+AC1740001.pdf	slNo349	House No.:57Narayanaswamy Venkatamma DHD7316524Sex: FemaleAge: 34Father's Name:
+AC1740001.pdf	slNo350	House No.:58Thayappa Doddamuniyappa SVF3000346Sex: MaleAge: 71Father's Name:
+AC1740001.pdf	slNo351	House No.:58Doddamuniyappa Thirumalamma SVF3000353Sex: FemaleAge: 61Husband's Name:
+AC1740001.pdf	slNo352	House No.:58Doddamuniyappa Katappa DHD7316797Sex: MaleAge: 33Father's Name:
+AC1740001.pdf	slNo353	House No.:59Doddamuniyappa Venkates DHD8022261Sex: MaleAge: 42Father's Name:
+AC1740001.pdf	slNo354	House No.:59Venkateswa Marakka DHD8022386Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo355	House No.:60Thayappa Katappa DHD7317985Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo356	House No.:60Katappa Rathnamma SVF0391516Sex: FemaleAge: 40Husband's Name:
+AC1740001.pdf	slNo357	House No.:60Katappa Venkatesh SVF0391664Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo358	House No.:60K Venkatesh K Venkatesh SVF5494414Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo359	House No.:60Venkatesh K Jayamma SVF5519624Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo360	House No.:61Thayappa Chikkamuniyappa SVF3000361Sex: MaleAge: 61Father's Name:
+AC1740001.pdf	slNo361	House No.:61Chikkamuniyappa Akkayyamma SVF3000379Sex: FemaleAge: 57Husband's Name:
+AC1740001.pdf	slNo362	House No.:61Chikkamuniyappa Lakshmidevi SVF3000387Sex: FemaleAge: 29Father's Name:
+AC1740001.pdf	slNo363	House No.:62Chikkamuniyappa Venkateswa SVF0391367Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo364	House No.:62Venkateswa Nanjamma DHD8022204Sex: FemaleAge: 41Husband's Name:
+AC1740001.pdf	slNo365	House No.:63Chikkavenkatappa Venkateshappa DHD7318884Sex: MaleAge: 45Father's Name:
+AC1740001.pdf	slNo366	House No.:63Venkateswa Venkatamma SVF0391565Sex: FemaleAge: 41Husband's Name:
+AC1740001.pdf	slNo367	House No.:64Chikkavenkatappa Rajanna C DHD7318157Sex: MaleAge: 83Father's Name:
+AC1740001.pdf	slNo368	House No.:64Rajanna Rathnamma SVF0391383Sex: FemaleAge: 38Husband's Name:
+AC1740001.pdf	slNo369	House No.:64Rajanna C Gowramma DHD7318694Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo370	House No.:65Chikkavenkatappa Chikkamuniyappa DHD7316425Sex: MaleAge: 48Father's Name:
+AC1740001.pdf	slNo371	House No.:65Chikkamuniyappa Rajeswari DHD7316433Sex: FemaleAge: 48Husband's Name:
+AC1740001.pdf	slNo372	House No.:65Chikkamuniyappa Shiva SVF4500021Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo373	House No.:65Shiva Ramya SVF5421250Sex: FemaleAge: 24Husband's Name:
+AC1740001.pdf	slNo374	House No.:65Bairappa B Munipattarappa SVF5519483Sex: MaleAge: 55Father's Name:
+AC1740001.pdf	slNo375	House No.:66Muddappa Chikkavenkatappa DHD9126442Sex: MaleAge: 51Father's Name:
+AC1740001.pdf	slNo376	House No.:66Chikkavenkatappa Muniyamma DHD9126434Sex: FemaleAge: 61Husband's Name:
+AC1740001.pdf	slNo377	House No.:66Muni Anjinappa Baiyala Anjinappa SVF5426648Sex: MaleAge: 43Father's Name:
+AC1740001.pdf	slNo378	House No.:67Guddappa Muniyappa DHD8022980Sex: MaleAge: 63Father's Name:
+AC1740001.pdf	slNo379	House No.:67Muniyappa Katamma DHD8023095Sex: FemaleAge: 66Husband's Name:
+AC1740001.pdf	slNo380	House No.:67Muniyappa Chennekrishna DHD8022279Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo381	House No.:67Madhurappa Venkatappa SVF2382091Sex: MaleAge: 42Father's Name:
+AC1740001.pdf	slNo382	House No.:67Venkatappa Muniyamma DHD9127135Sex: FemaleAge: 31Husband's Name:
+AC1740001.pdf	slNo383	House No.:67Govindraj Photo Not  AvailableNeelamma SVF5519756Sex: FemaleAge: 29Husband's Name:
+AC1740001.pdf	slNo384	House No.:67Mahadevappa Govindraj SVF5519640Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo385	House No.:68Muniyappa Katappa DHD9126657Sex: MaleAge: 39Father's Name:
+AC1740001.pdf	slNo386	House No.:68Katappa Honnamma SVF3000312Sex: FemaleAge: 36Husband's Name:
+AC1740001.pdf	slNo387	House No.:69Sreenivas Jayalakshmee DHD8022485Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo388	House No.:69Late Srinivas Rajashekar S SVF5519673Sex: MaleAge: 20Father's Name:
+AC1740001.pdf	slNo389	House No.:70Le Narayanappa Muniyamma DHD8022667Sex: FemaleAge: 56Husband's Name:
+AC1740001.pdf	slNo390	House No.:70Late. Narayanappa Akkayamma SVF4500039Sex: FemaleAge: 30Father's Name:
+AC1740001.pdf	slNo391	House No.:71Late . Narayanappa Gangadhara DHD7319098Sex: MaleAge: 38Father's Name:
+AC1740001.pdf	slNo392	House No.:71Gangadhara Suryakanthi DHD7317084Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo393	House No.:71Gangappa Bheemesh SVF5995881Sex: MaleAge: 21Father's Name:
+AC1740001.pdf	slNo394	House No.:71Manindra gos Mintyogos SVF5995873Sex: MaleAge: 21Father's Name:
+AC1740001.pdf	slNo395	House No.:71Manindra Gos Miten Gos SVF5995857Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo396	House No.:71Bheem Rav Shivkumar SVF5995808Sex: MaleAge: 36Father's Name:
+AC1740001.pdf	slNo397	House No.:71Shivkumar Sanjana Devi SVF5995824Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo398	House No.:71Late Narayanappa Muniyamma SVF5519723Sex: FemaleAge: 62Husband's Name:
+AC1740001.pdf	slNo399	House No.:72Narasimhappa Narayanamma DHD7317001Sex: FemaleAge: 49Husband's Name:
+AC1740001.pdf	slNo400	House No.:72Suresha  Aara Manjula B V Sex: FemaleAge: 27Husband's Name:
+AC1740001.pdf	slNo401	House No.:72Koraga Mudura SVF5001722Sex: MaleAge: 56Father's Name:
+AC1740001.pdf	slNo402	House No.:72Rajappa Lingappa SVF5995899Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo403	House No.:72Lingappa Hanumathi SVF5995907Sex: FemaleAge: 31Husband's Name:
+AC1740001.pdf	slNo404	House No.:73Muniyappa Chikkamuniyappa DHD9126517Sex: MaleAge: 46Father's Name:
+AC1740001.pdf	slNo405	House No.:73Chikkamuniyappa Gowramma SVF3000411Sex: FemaleAge: 47Husband's Name:
+AC1740001.pdf	slNo406	House No.:73Chikkamuniyappa Venkatalakshmi DHD7318751Sex: FemaleAge: 35Father's Name:
+AC1740001.pdf	slNo407	House No.:73Chikkamuniyappa M.Muniraja SVF2381895Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo408	House No.:73Venkatarayappa Nagamma SVF2382141Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo409	House No.:73Nallaraju Muniswamy N SVF4500047Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo410	House No.:73Muniraju Gangamma SVF4500054Sex: FemaleAge: 25Husband's Name:
+AC1740001.pdf	slNo411	House No.:74Srinivasa Manjula SVF6586770Sex: FemaleAge: 30Husband's Name:
+AC1740001.pdf	slNo412	House No.:75Narasinh Jayalakshmi SVF0875773Sex: FemaleAge: 30Husband's Name:
+AC1740001.pdf	slNo413	House No.:75Halloor Muniyappa Akkayyamma DHD7318686Sex: FemaleAge: 56Husband's Name:
+AC1740001.pdf	slNo414	House No.:75Halloor Muniyappa Kanthappa SVF3000460Sex: MaleAge: 40Father's Name:
+AC1740001.pdf	slNo415	House No.:75Halluru Muniyappa Narasimha DHD7318660Sex: MaleAge: 35Father's Name:
+AC1740001.pdf	slNo416	House No.:75Halluru Muniyappa Murthy DHD8022758Sex: MaleAge: 34Father's Name:
+AC1740001.pdf	slNo417	House No.:75Halluru Muniyappa Lakshmamma DHD7318769Sex: FemaleAge: 33Father's Name:
+AC1740001.pdf	slNo418	House No.:76Venkataramanappa Muniyappa SVF3000478Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo419	House No.:76Muniyappa Susheelamma DHD9127218Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo420	House No.:77Muniyappa Varalakshmi DHD8022170Sex: FemaleAge: 32Father's Name:
+AC1740001.pdf	slNo421	House No.:77Narasimhaiah Narasimhappa DHD8022709Sex: MaleAge: 36Father's Name:
+AC1740001.pdf	slNo422	House No.:78Venkataramanappa Munidalamma DHD7316706Sex: FemaleAge: 68Husband's Name:
+AC1740001.pdf	slNo423	House No.:78Munidalamma Venkateshammaa DHD9126939Sex: FemaleAge: 35Mother's Name:
+AC1740001.pdf	slNo424	House No.:78Venkataramanappa Narasimha Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo425	House No.:79Munivenkatamma Katamma SVF3000445Sex: FemaleAge: 47Mother's Name:
+AC1740001.pdf	slNo426	House No.:79Venkataramanappa Katappa SVF0391375Sex: MaleAge: 28Mother's Name:
+AC1740001.pdf	slNo427	House No.:80Venkateswa Thirumalamma DHD7318058Sex: FemaleAge: 41Husband's Name:
+AC1740001.pdf	slNo428	House No.:81Thayappa Lakshmaiah DHD8022626Sex: MaleAge: 59Father's Name:
+AC1740001.pdf	slNo429	House No.:81Lakshmaiah Muniyamma DHD7316789Sex: FemaleAge: 54Husband's Name:
+AC1740001.pdf	slNo430	House No.:81Lakshmaiah Muniyamma DHD7317431Sex: FemaleAge: 36Father's Name:
+AC1740001.pdf	slNo431	House No.:82Lakshmaiah Katappa DHD7319080Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo432	House No.:82Katappa Chowdamma DHD7317399Sex: FemaleAge: 39Husband's Name:
+AC1740001.pdf	slNo433	House No.:84Dhodadasappa Venkataramanappa SVF0391557Sex: MaleAge: 54Father's Name:
+AC1740001.pdf	slNo434	House No.:85Muniyappa Poojamma DHD9126475Sex: FemaleAge: 81Husband's Name:
+AC1740001.pdf	slNo435	House No.:85Narayanappa Muniyamma DHD9126665Sex: FemaleAge: 35Father's Name:
+AC1740001.pdf	slNo436	House No.:85Doddanna N .Narayanaswamy SVF3000437Sex: MaleAge: 45Father's Name:
+AC1740001.pdf	slNo437	House No.:85Muniraju Muniyamma Sex: FemaleAge: 26Husband's Name:
+AC1740001.pdf	slNo438	House No.:86Pallu Poojappa Mariyappa DHD7319072Sex: MaleAge: 51Father's Name:
+AC1740001.pdf	slNo439	House No.:86Mariyappa Sonnamma DHD7319122Sex: FemaleAge: 47Husband's Name:
+AC1740001.pdf	slNo440	House No.:86Mariyappa Venkatesh DHD7319056Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo441	House No.:86Venkateswa Gangamma DHD7319049Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo442	House No.:86Mariyappa Poojappa DHD8022899Sex: MaleAge: 32Father's Name:
+AC1740001.pdf	slNo443	House No.:86Mariyappa Venkatalakshmi SVF2382018Sex: FemaleAge: 28Father's Name:
+AC1740001.pdf	slNo444	House No.:87Poojigiddamma Doddamuniyappa DHD7316490Sex: MaleAge: 53Father's Name:
+AC1740001.pdf	slNo445	House No.:88Mahadevappa.S.AngadiSunandha.C.BadadhalaSVF6685606Sex: FemaleAge: 49Husband's Name:
+AC1740001.pdf	slNo446	House No.:89Talavalamuniyappa Yallappa DHD8022907Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo447	House No.:89Venkatesh Nanjamma DHD9126533Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo448	House No.:90Thayappa Venkataramanappa DHD9126996Sex: MaleAge: 46Father's Name:
+AC1740001.pdf	slNo449	House No.:90Venkataramanappa Gowramma SVF0391425Sex: FemaleAge: 45Husband's Name:
+AC1740001.pdf	slNo450	House No.:90Venkataramanappa Venkatesh DHD9126541Sex: MaleAge: 31Father's Name:
+AC1740001.pdf	slNo451	House No.:90Venkataraamanappa V.Srinivasa SVF2381853Sex: MaleAge: 28Father's Name:
+AC1740001.pdf	slNo452	House No.:90Srinivas V N Bhagyamma SVF6589261Sex: FemaleAge: 20Husband's Name:
+AC1740001.pdf	slNo453	House No.:91Chikkadalappa Munivenkatappa DHD7317464Sex: MaleAge: 55Father's Name:
+AC1740001.pdf	slNo454	House No.:91Munivenkatappa Munithayamma SVF0391359Sex: FemaleAge: 47Husband's Name:
+AC1740001.pdf	slNo455	House No.:91Munivenkatappa M.Venkataswamy SVF0391342Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo456	House No.:91Venkataswamy Suma SVF6590608Sex: FemaleAge: 26Husband's Name:
+AC1740001.pdf	slNo457	House No.:92Thayappa Ramaiah SVF0391904Sex: MaleAge: 57Father's Name:
+AC1740001.pdf	slNo458	House No.:92Ramaiah Shrinivasa DHD7318041Sex: MaleAge: 35Father's Name:
+AC1740001.pdf	slNo459	House No.:92Shrinivasa Manjula DHD9126459Sex: FemaleAge: 31Husband's Name:
+AC1740001.pdf	slNo460	House No.:93Muniyappa Venkatarayappa DHD7318082Sex: MaleAge: 51Father's Name:
+AC1740001.pdf	slNo461	House No.:94Katappa Venkateshappa SVF0391888Sex: MaleAge: 49Father's Name:
+AC1740001.pdf	slNo462	House No.:94Venkateshappa Ramakka SVF3000452Sex: FemaleAge: 41Husband's Name:
+AC1740001.pdf	slNo463	House No.:94Venkateshappa Murthy DHD7318074Sex: MaleAge: 33Father's Name:
+AC1740001.pdf	slNo464	House No.:94S..Perumala V.P..Murugesha SVF3000544Sex: MaleAge: 47Father's Name:
+AC1740001.pdf	slNo465	House No.:94Murthy Lakshmi SVF4500062Sex: FemaleAge: 26Husband's Name:
+AC1740001.pdf	slNo466	House No.:96Chikkamuniyappa Venkateswa DHD7317373Sex: MaleAge: 37Father's Name:
+AC1740001.pdf	slNo467	House No.:96Venkatesh Lakshmamma DHD7317340Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo468	House No.:97Le Esa Perumala Vi Pi Shankaranarayana Sex: MaleAge: 45Father's Name:
+AC1740001.pdf	slNo469	House No.:97Perumala V.P..Rukmini DHD9127069Sex: FemaleAge: 56Father's Name:
+AC1740001.pdf	slNo470	House No.:97Perumal Krishnaveni SVF3000528Sex: FemaleAge: 50Father's Name:
+AC1740001.pdf	slNo471	House No.:97Leshrinivasa S..Perumala DHD9127077Sex: MaleAge: 80Father's Name:
+AC1740001.pdf	slNo472	House No.:97S..Perumala Rathnamma SVF3000536Sex: FemaleAge: 71Husband's Name:
+AC1740001.pdf	slNo473	House No.:97( L)    Shanmugam S.  Deenadayalu DHD9127085Sex: MaleAge: 62Father's Name:
+AC1740001.pdf	slNo474	House No.:98Mallappa Kallappa SVF4570016Sex: MaleAge: 43Father's Name:
+AC1740001.pdf	slNo475	House No.:98Kallappa Sharada SVF2382182Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo476	House No.:99Rangappa Hanumantharaya SVF0391672Sex: MaleAge: 43Father's Name:
+AC1740001.pdf	slNo477	House No.:101Prasad Shruthi SVF6811368Sex: FemaleAge: 37Husband's Name:
+AC1740001.pdf	slNo478	House No.:101Kamanth Vijaya Lakshmi SVF6811335Sex: FemaleAge: 54Father's Name:
+AC1740001.pdf	slNo479	House No.:102Shekar Katamma SVF0875781Sex: FemaleAge: 32Husband's Name:
+AC1740001.pdf	slNo480	House No.:102Narayanappa Shankara SVF2382166Sex: MaleAge: 35Father's Name:
+AC1740001.pdf	slNo481	House No.:105Channaiah Roshaiah SVF5421268Sex: MaleAge: 48Father's Name:
+AC1740001.pdf	slNo482	House No.:105Roshaiah Lakshmamma SVF5421391Sex: FemaleAge: 38Husband's Name:
+AC1740001.pdf	slNo483	House No.:106Muniyappa Lokesh M L SVF5421425Sex: MaleAge: 21Father's Name:
+AC1740001.pdf	slNo484	House No.:106Niranjan Ganesh SVF5519541Sex: MaleAge: 25Father's Name:
+AC1740001.pdf	slNo485	House No.:152Samir Arora Asshray Arora SVF6775738Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo486	House No.:174Raj Varagesh Valasamma SVF5519533Sex: FemaleAge: 47Husband's Name:
+AC1740001.pdf	slNo487	House No.:190/4surendra Rukmini S SVF5408828Sex: FemaleAge: 23Father's Name:
+AC1740001.pdf	slNo488	House No.:199-2BAIJU RAI Pankaj Kumar SVF6775720Sex: MaleAge: 26Father's Name:
+AC1740001.pdf	slNo489	House No.:199-2VISWANATH Vishwanath SVF6775696Sex: MaleAge: 46Father's Name:
+AC1740001.pdf	slNo490	House No.:275M. Narayanappa N. Chandrappa SVF6354104Sex: MaleAge: 42Father's Name:
+AC1740001.pdf	slNo491	House No.:304Ramappa Rajesha S Sex: MaleAge: 29Father's Name:
+AC1740001.pdf	slNo492	House No.:375Ramachandra Nagaraj R Sex: MaleAge: 24Father's Name:
+AC1740001.pdf	slNo493	House No.:492MAHAMMAD AYUB Sabira Banu SVF6882443Sex: FemaleAge: 27Father's Name:
+AC1740001.pdf	slNo494	House No.:0Ventaka Chala Priya SVF4970190Sex: FemaleAge: 28Husband's Name:
+AC1740001.pdf	slNo495	House No.:0Palani Swamy Venkatachala SVF4970182Sex: MaleAge: 31Father's Name:
+AC1740001.pdf	slNo496	House No.:1Vargisa Le Raji Vargisa SVF2382075Sex: MaleAge: 48Father's Name:
+AC1740001.pdf	slNo497	House No.:2Ti Ramayya Ara Mudalagiriyappa SVF2381903Sex: MaleAge: 44Father's Name:
+AC1740001.pdf	slNo498	House No.:2Ara Mudalagiriyappa Lalithamma SVF2381911Sex: FemaleAge: 32Husband's Name:
+AC1740001.pdf	slNo499	House No.:3Ningappa Sabanna SVF2381994Sex: MaleAge: 68Father's Name:
+AC1740001.pdf	slNo500	House No.:3Sabanna Durgamma SVF2381978Sex: FemaleAge: 56Husband's Name:
+AC1740001.pdf	slNo501	House No.:3Sabanna Hanumanth SVF2381986Sex: MaleAge: 33Father's Name:
+AC1740001.pdf	slNo502	House No.:6Kariyappa Hanumanth SVF2381960Sex: MaleAge: 50Father's Name:
+AC1740001.pdf	slNo503	House No.:6Hanumanth Sabamma SVF0391391Sex: FemaleAge: 46Husband's Name:
+AC1740001.pdf	slNo504	House No.:18Nagappa Mallamma SVF0391458Sex: FemaleAge: 48Husband's Name:
+AC1740001.pdf	slNo505	House No.:18Venkappa Devappa SVF0391532Sex: MaleAge: 45Father's Name:
+AC1740001.pdf	slNo506	House No.:25Rajappa Lingappa SVF0391607Sex: MaleAge: 27Father's Name:
+AC1740001.pdf	slNo507	House No.:27Giriyappa Hanumanthappa SVF0391623Sex: MaleAge: 38Father's Name:
+AC1740001.pdf	slNo508	House No.:31Kalappa Ramaswami Sex: MaleAge: 46Father's Name:
+AC1740001.pdf	slNo509	House No.:32Kalappa Nagaraja Sex: MaleAge: 43Father's Name:
+AC1740001.pdf	slNo510	House No.:33Chandra Durga Sex: FemaleAge: 33Husband's Name:
+AC1740001.pdf	slNo511	House No.:34Thangaraja Rasathi DHD9126749Sex: FemaleAge: 31Husband's Name:
+AC1740001.pdf	slNo512	House No.:34Rangaswamy Thangaraja DHD9126723Sex: MaleAge: 36Father's Name:
+AC1740001.pdf	slNo513	House No.:35Kandam Teriswami DHD9126806Sex: MaleAge: 41Father's Name:
+AC1740001.pdf	slNo514	House No.:37Perina Mariyamma DHD9126756Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo1	House No.:.Narayanaswamy Bhagyamma SVF5421672Sex: FemaleAge: 39Husband's Name:
+AC1740002.pdf	slNo2	House No.:.Ravikumar Shashikumari  V SVF5421664Sex: FemaleAge: 23Husband's Name:
+AC1740002.pdf	slNo3	House No.:.Muniraju Rathnamma SVF5421656Sex: FemaleAge: 58Husband's Name:
+AC1740002.pdf	slNo4	House No.:.Manjunath Nethravathi SVF5421599Sex: FemaleAge: 26Husband's Name:
+AC1740002.pdf	slNo5	House No.:.Manjunath Sangeetha SVF5421516Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo6	House No.:.Kempamma Narayana Swamy SVF5421508Sex: MaleAge: 45Mother's Name:
+AC1740002.pdf	slNo7	House No.:.Kamappa K Krishnappa SVF5421458Sex: MaleAge: 38Father's Name:
+AC1740002.pdf	slNo8	House No.:.Venkatappa Lakshmamma SVF5422027Sex: FemaleAge: 55Husband's Name:
+AC1740002.pdf	slNo9	House No.:.Eerappa Nagarathna E SVF5422019Sex: FemaleAge: 23Father's Name:
+AC1740002.pdf	slNo10	House No.:.Manjunath Mahesh M SVF5421474Sex: MaleAge: 23Father's Name:
+AC1740002.pdf	slNo11	House No.:.Shrinivas D Manohar Babu SVF5421995Sex: MaleAge: 21Father's Name:
+AC1740002.pdf	slNo12	House No.:.Munishamappa Manjunath M SVF5421987Sex: MaleAge: 38Father's Name:
+AC1740002.pdf	slNo13	House No.:.Chinnaswamappa Gopi C SVF5421946Sex: MaleAge: 29Father's Name:
+AC1740002.pdf	slNo14	House No.:.Bacchappa Banuprakash SVF5421888Sex: MaleAge: 25Father's Name:
+AC1740002.pdf	slNo15	House No.:-N Ravi kumar A Pramila SVF5092473Sex: FemaleAge: 30Husband's Name:
+AC1740002.pdf	slNo16	House No.:-R Mahesh gouda K Suma SVF5519905Sex: FemaleAge: 33Husband's Name:
+AC1740002.pdf	slNo17	House No.:-Munivenkatappa Rajendra Kumar SVF5519913Sex: MaleAge: 38Father's Name:
+AC1740002.pdf	slNo18	House No.:-Harish Savitha SVF6517395Sex: FemaleAge: 24Husband's Name:
+AC1740002.pdf	slNo19	House No.:-Bacchappa Usha Rani B SVF6982946Sex: FemaleAge: 19Father's Name:
+AC1740002.pdf	slNo20	House No.:0Muninanjappa Kumari M SVF5092408Sex: FemaleAge: 30Father's Name:
+AC1740002.pdf	slNo21	House No.:0Uttanalappa Asha Rani H SVF5092432Sex: FemaleAge: 22Father's Name:
+AC1740002.pdf	slNo22	House No.:0Maddurappa Lakshmi Devi M SVF5092465Sex: FemaleAge: 23Father's Name:
+AC1740002.pdf	slNo23	House No.:0Eranna Madhu E SVF5092499Sex: MaleAge: 22Father's Name:
+AC1740002.pdf	slNo24	House No.:0Muniyappa Anitha M SVF5092440Sex: FemaleAge: 22Father's Name:
+AC1740002.pdf	slNo25	House No.:0Narayanaswamy Kanthamma SVF5092481Sex: FemaleAge: 23Husband's Name:
+AC1740002.pdf	slNo26	House No.:0V Venkataiah Lakshmi Narayana V SVF5092457Sex: MaleAge: 22Father's Name:
+AC1740002.pdf	slNo27	House No.:0Basavarajappa Manjunatha B SVF5092390Sex: MaleAge: 25Father's Name:
+AC1740002.pdf	slNo28	House No.:2Jayarajappa Veena J SVF5421938Sex: FemaleAge: 24Father's Name:
+AC1740002.pdf	slNo29	House No.:2Muniraju Renukamma SVF5532353Sex: FemaleAge: 39Husband's Name:
+AC1740002.pdf	slNo30	House No.:2-2Doddanna Chikkanna KT/99/174/528613Sex: MaleAge: 77Father's Name:
+AC1740002.pdf	slNo31	House No.:2-2Chikkanna Nagarajappa KT/99/174/528605Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo32	House No.:2-2Nagarajappa Vijayamma SVF1981422Sex: FemaleAge: 44Husband's Name:
+AC1740002.pdf	slNo33	House No.:2-2Chikkanna Jayarajappa 528606Sex: MaleAge: 53Father's Name:
+AC1740002.pdf	slNo34	House No.:2-2Jayarajappa Geethamma SVF0718635Sex: FemaleAge: 42Husband's Name:
+AC1740002.pdf	slNo35	House No.:2-2Chikkanna Chandrashekara 528607Sex: MaleAge: 39Father's Name:
+AC1740002.pdf	slNo36	House No.:2-2Doddanna Nanjappa DHD8623407Sex: MaleAge: 86Father's Name:
+AC1740002.pdf	slNo37	House No.:2-2Nanjappa Chikkamuniyappa SVF0138586Sex: FemaleAge: 72Husband's Name:
+AC1740002.pdf	slNo38	House No.:2-2Marappa Sakamma SVF0138545Sex: FemaleAge: 66Husband's Name:
+AC1740002.pdf	slNo39	House No.:2-2Nanjappa Baiyanna SVF1980325Sex: MaleAge: 60Father's Name:
+AC1740002.pdf	slNo40	House No.:2-2Baiyanna Sanjivamma SVF0138560Sex: FemaleAge: 49Husband's Name:
+AC1740002.pdf	slNo41	House No.:2-2Narayanaswamy Parvathamma SVF0138537Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo42	House No.:2-2Doddananjap Muniraju DHD7333065Sex: MaleAge: 57Father's Name:
+AC1740002.pdf	slNo43	House No.:2-2Baiyanna Chandrappa SVF0138347Sex: MaleAge: 40Father's Name:
+AC1740002.pdf	slNo44	House No.:2-2Muniyappa Narayanappa SVF3000866Sex: MaleAge: 67Father's Name:
+AC1740002.pdf	slNo45	House No.:2-2Narayanappa Pellamma SVF0718114Sex: FemaleAge: 65Husband's Name:
+AC1740002.pdf	slNo46	House No.:2-2Narayanappa Anjinamma SVF1981232Sex: FemaleAge: 60Husband's Name:
+AC1740002.pdf	slNo47	House No.:2-2Narayanappa Manjunatha SVF1981133Sex: MaleAge: 38Father's Name:
+AC1740002.pdf	slNo48	House No.:2-2Seethappa Bachappa SVF1981141Sex: MaleAge: 77Father's Name:
+AC1740002.pdf	slNo49	House No.:2-2Manjunatha Munirathnamma SVF1981224Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo50	House No.:2-2Narayanappa Bhairegowda SVF1981240Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo51	House No.:2-2Nagarajappa Chaitra N SVF6982920Sex: FemaleAge: 23Father's Name:
+AC1740002.pdf	slNo52	House No.:03Lokesh Shubha SVF0717900Sex: FemaleAge: 37Husband's Name:
+AC1740002.pdf	slNo53	House No.:03Kempaiah Srirama KDHD7333123Sex: MaleAge: 36Father's Name:
+AC1740002.pdf	slNo54	House No.:03Cendrashekara Bharathamma SVF0718643Sex: FemaleAge: 36Husband's Name:
+AC1740002.pdf	slNo55	House No.:3Kempaiah Sonnamma SVF0718585Sex: FemaleAge: 60Husband's Name:
+AC1740002.pdf	slNo56	House No.:3Kempaiah Lokesh SVF0718668Sex: MaleAge: 41Father's Name:
+AC1740002.pdf	slNo57	House No.:3Kempaiah Chandramurthi SVF0718510Sex: MaleAge: 41Father's Name:
+AC1740002.pdf	slNo58	House No.:3Sriram  K Thanuja D SVF5519871Sex: FemaleAge: 27Husband's Name:
+AC1740002.pdf	slNo59	House No.:3-2Manjunatha Balaraj SVF0260257Sex: MaleAge: 32Others Name:
+AC1740002.pdf	slNo60	House No.:þ7-1Munirajappa Savitramma SVF1981059Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo61	House No.:7-1Muniyappa Munirajappa SVF1981513Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo62	House No.:7-1Munirajappa Munirathnamma SVF1981026Sex: FemaleAge: 52Husband's Name:
+AC1740002.pdf	slNo63	House No.:7-1Munirajappa M Naveenkumar SVF1981521Sex: MaleAge: 30Father's Name:
+AC1740002.pdf	slNo64	House No.:7-1M Munirajappa M Aruna Kumar SVF1980689Sex: MaleAge: 27Father's Name:
+AC1740002.pdf	slNo65	House No.:7-2Muniyappa Munidoddappa SVF1981315Sex: MaleAge: 65Father's Name:
+AC1740002.pdf	slNo66	House No.:7-2Munidoddappa Jayamma SVF1981067Sex: FemaleAge: 60Husband's Name:
+AC1740002.pdf	slNo67	House No.:7-2Munidoddappa Venkatesh SVF1980820Sex: MaleAge: 45Father's Name:
+AC1740002.pdf	slNo68	House No.:7-2Venkatesh Sujatha SVF1980846Sex: FemaleAge: 42Husband's Name:
+AC1740002.pdf	slNo69	House No.:7-2Munidoddappa Maregowda SVF1981042Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo70	House No.:7-2Maregowda Asha SVF3000874Sex: FemaleAge: 27Husband's Name:
+AC1740002.pdf	slNo71	House No.:14Doddappa Kempanna SVF0718627Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo72	House No.:14Kempanna Rathnamma SVF0718684Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo73	House No.:14Ambreesh Nagaveni SVF5421631Sex: FemaleAge: 22Husband's Name:
+AC1740002.pdf	slNo74	House No.:14kempanna Ambarish SVF5532379Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo75	House No.:15Santhosh Kumar Kalpana SVF3000882Sex: FemaleAge: 31Husband's Name:
+AC1740002.pdf	slNo76	House No.:18Ugrappa Govindappa DHD7333081Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo77	House No.:18Govindappa Narayanamma SVF0718650Sex: FemaleAge: 52Husband's Name:
+AC1740002.pdf	slNo78	House No.:18Ugrappa Eranna SVF0717884Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo79	House No.:18Eranna Sumithramma SVF0718189Sex: FemaleAge: 42Husband's Name:
+AC1740002.pdf	slNo80	House No.:18Govindappa Sathesh DHD7333107Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo81	House No.:18Chandrappa Vasanth SVF0138354Sex: FemaleAge: 31Husband's Name:
+AC1740002.pdf	slNo82	House No.:18Sathish Sushma P SVF6982938Sex: FemaleAge: 21Husband's Name:
+AC1740002.pdf	slNo83	House No.:19-3Sonnappa Baiyamma DHD8622623Sex: FemaleAge: 83Husband's Name:
+AC1740002.pdf	slNo84	House No.:19-3Sonnappa Muniraj  T.N KT/99/174/528502Sex: MaleAge: 44Father's Name:
+AC1740002.pdf	slNo85	House No.:19-3Muniraja Rathnamma 528503Sex: FemaleAge: 52Husband's Name:
+AC1740002.pdf	slNo86	House No.:19-3Sonnappa Narayanaswamy SVF0259952Sex: MaleAge: 51Father's Name:
+AC1740002.pdf	slNo87	House No.:19-3Narayanaswamy Kempamma DHD8622813Sex: FemaleAge: 46Husband's Name:
+AC1740002.pdf	slNo88	House No.:19-3Sonnappa Viranna SVF0135392Sex: MaleAge: 49Father's Name:
+AC1740002.pdf	slNo89	House No.:19-3Sonnappa  N Munegowda  S DHD8622458Sex: MaleAge: 46Father's Name:
+AC1740002.pdf	slNo90	House No.:19-3Veerannagowda Sumithradevi M S SVF0136168Sex: FemaleAge: 73Husband's Name:
+AC1740002.pdf	slNo91	House No.:19-3Munegowda Lakshmi SVF1980135Sex: FemaleAge: 39Husband's Name:
+AC1740002.pdf	slNo92	House No.:19/3Narayanaswamy Vinay T N SVF5532403Sex: MaleAge: 21Father's Name:
+AC1740002.pdf	slNo93	House No.:19/3Narayanaswamy Divya N SVF5532387Sex: FemaleAge: 23Father's Name:
+AC1740002.pdf	slNo94	House No.:20Nanjappa Munirathnam SVF5519814Sex: MaleAge: 63Father's Name:
+AC1740002.pdf	slNo95	House No.:20Munirathnam Nandini SVF5532346Sex: FemaleAge: 53Husband's Name:
+AC1740002.pdf	slNo96	House No.:20Munirathnam Rithesha M SVF5532395Sex: MaleAge: 25Father's Name:
+AC1740002.pdf	slNo97	House No.:20Munirathnam Avinash M SVF5532361Sex: MaleAge: 27Father's Name:
+AC1740002.pdf	slNo98	House No.:20-1Nanjappa Venkataswamappa SVF0302653Sex: MaleAge: 85Father's Name:
+AC1740002.pdf	slNo99	House No.:20-1Venkataswamappa Srinivasamurthi SVF0717801Sex: MaleAge: 52Father's Name:
+AC1740002.pdf	slNo100	House No.:20-1Venkataswamappa Manjunath V SVF0302836Sex: MaleAge: 48Father's Name:
+AC1740002.pdf	slNo101	House No.:20-1Venkataswamappa Narendramurthy V SVF0717793Sex: MaleAge: 44Father's Name:
+AC1740002.pdf	slNo102	House No.:20/1Srinivasamurthi Gayithri KSVF0718205Sex: FemaleAge: 37Husband's Name:
+AC1740002.pdf	slNo103	House No.:21Manjunatha. M Madhumathi SVF1980994Sex: FemaleAge: 33Husband's Name:
+AC1740002.pdf	slNo104	House No.:NO 25ANJINAPPA G M Ashiwini A SVF6466551Sex: FemaleAge: 23Father's Name:
+AC1740002.pdf	slNo105	House No.:26Shrinivas Reddy V Nalina R SVF5421904Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo106	House No.:26Nanjappa Ramanna SVF0718809Sex: MaleAge: 75Father's Name:
+AC1740002.pdf	slNo107	House No.:26Ramanna Kamalamma SVF0302745Sex: FemaleAge: 51Husband's Name:
+AC1740002.pdf	slNo108	House No.:26Ramanna Tyagaraju KT/99/174/528506Sex: MaleAge: 47Father's Name:
+AC1740002.pdf	slNo109	House No.:26Ramanna Kemparaju SVF0718791Sex: MaleAge: 45Father's Name:
+AC1740002.pdf	slNo110	House No.:26Ramaiah Nanjegowda R SVF0717785Sex: MaleAge: 39Father's Name:
+AC1740002.pdf	slNo111	House No.:26Ramanna Mahesh Gowda DHD8363368Sex: MaleAge: 37Father's Name:
+AC1740002.pdf	slNo112	House No.:26R Nanjegowda B V Leelavathi SVF5421854Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo113	House No.:27Nanjappa Krishnappa SVF0260034Sex: MaleAge: 69Father's Name:
+AC1740002.pdf	slNo114	House No.:27Krishnappa Rathnamma SVF0718213Sex: FemaleAge: 59Husband's Name:
+AC1740002.pdf	slNo115	House No.:27Krishnappa K Harish DHD7332547Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo116	House No.:27Krishnappa Vishwanatha DHD7332810Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo117	House No.:28Vajrappa Chinnaswamappa 528376Sex: MaleAge: 65Father's Name:
+AC1740002.pdf	slNo118	House No.:28Nanjappa Ramakrishnappa DHD8622565Sex: MaleAge: 62Father's Name:
+AC1740002.pdf	slNo119	House No.:28Ramakrishnappa Sonnamma SVF0718502Sex: FemaleAge: 46Husband's Name:
+AC1740002.pdf	slNo120	House No.:28Chinnaswamappa Manjunatha DHD8622334Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo121	House No.:28Ramakrishnappa R Maregowda DHD7332992Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo122	House No.:28Gopi Mamatha G R SVF6517353Sex: FemaleAge: 21Husband's Name:
+AC1740002.pdf	slNo123	House No.:29Muniswamappa Venkatarayappa SVF1980887Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo124	House No.:29Venkatarayappa Rathnamma SVF1980879Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo125	House No.:29Muniyappa Sakamma SVF0718247Sex: FemaleAge: 58Husband's Name:
+AC1740002.pdf	slNo126	House No.:29Munikrishnappa Jayamma SVF0717827Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo127	House No.:29Chinnappa Doddamuniyappa SVF0718015Sex: MaleAge: 92Father's Name:
+AC1740002.pdf	slNo128	House No.:29Doddamuniyappa Sidhamma SVF0718254Sex: FemaleAge: 72Husband's Name:
+AC1740002.pdf	slNo129	House No.:29Doddamuniyappa M ChinnappaSVF1980101Sex: MaleAge: 53Father's Name:
+AC1740002.pdf	slNo130	House No.:29M ChinnappaPellamma SVF0718296Sex: FemaleAge: 51Husband's Name:
+AC1740002.pdf	slNo131	House No.:29Chinnappa C Shivamurthi SVF1981463Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo132	House No.:29Channappa Dilipkumara SVF0136952Sex: MaleAge: 29Father's Name:
+AC1740002.pdf	slNo133	House No.:29Shivamurthi C Nethravathi SVF0718312Sex: FemaleAge: 27Husband's Name:
+AC1740002.pdf	slNo134	House No.:29Yallaraju C D Vijayakumari SVF0718304Sex: FemaleAge: 27Husband's Name:
+AC1740002.pdf	slNo135	House No.:29Venkatarayappa Naveen Kumar V SVF5421847Sex: MaleAge: 23Father's Name:
+AC1740002.pdf	slNo136	House No.:29Venkataramappa Guruprasad SVF5421557Sex: MaleAge: 26Father's Name:
+AC1740002.pdf	slNo137	House No.:29Guruprasad Roopashri SVF6517528Sex: FemaleAge: 24Husband's Name:
+AC1740002.pdf	slNo138	House No.:30Muninanjappa Sujath SVF1981307Sex: FemaleAge: 27Father's Name:
+AC1740002.pdf	slNo139	House No.:31Muniyappa Giddamma DHD8622490Sex: FemaleAge: 73Husband's Name:
+AC1740002.pdf	slNo140	House No.:31Muniyappa Krishnappa SVF0136614Sex: MaleAge: 43Father's Name:
+AC1740002.pdf	slNo141	House No.:31Muniyappa Ramanjinappa SVF0136796Sex: MaleAge: 39Father's Name:
+AC1740002.pdf	slNo142	House No.:31Virappa Sampangamma SVF1980234Sex: FemaleAge: 75Husband's Name:
+AC1740002.pdf	slNo143	House No.:31Virappa Kemparaju 528499Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo144	House No.:31Kemparaju Lakshmamma SVF1981281Sex: FemaleAge: 40Husband's Name:
+AC1740002.pdf	slNo145	House No.:31Virappa Muniraju SVF1980911Sex: MaleAge: 41Father's Name:
+AC1740002.pdf	slNo146	House No.:31Veerappa Gangadhara .V DHD8622888Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo147	House No.:31Muniyappa Narayanaswamy SVF1981034Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo148	House No.:31Sampatha Kumar Sunitha SVF1003797Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo149	House No.:31Gangadhar V G Renuka SVF5421524Sex: FemaleAge: 25Husband's Name:
+AC1740002.pdf	slNo150	House No.:31Muniraju K N Munirathnamma SVF5421565Sex: FemaleAge: 25Husband's Name:
+AC1740002.pdf	slNo151	House No.:31Kemparaju Raja K SVF6517403Sex: MaleAge: 19Father's Name:
+AC1740002.pdf	slNo152	House No.:32Thirumalappa Pillappa SVF0717835Sex: MaleAge: 75Father's Name:
+AC1740002.pdf	slNo153	House No.:32Pillappa Rathnamma SVF0718494Sex: FemaleAge: 56Husband's Name:
+AC1740002.pdf	slNo154	House No.:34Ramasabad Nanjamma SVF0718346Sex: FemaleAge: 62Husband's Name:
+AC1740002.pdf	slNo155	House No.:34Ramasabad Ramdeva 528399Sex: MaleAge: 46Father's Name:
+AC1740002.pdf	slNo156	House No.:34Ramdeva Suvarnamma SVF0137463Sex: FemaleAge: 41Husband's Name:
+AC1740002.pdf	slNo157	House No.:34Ramasabad Shrinivasa SVF1980655Sex: MaleAge: 42Father's Name:
+AC1740002.pdf	slNo158	House No.:34Shrinivasa Shakunthalamma SVF1980648Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo159	House No.:34Kempaiah Ananda K DHD7333149Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo160	House No.:34Harish Geetha SVF1980754Sex: FemaleAge: 29Husband's Name:
+AC1740002.pdf	slNo161	House No.:34Anand Soumya SVF5519822Sex: FemaleAge: 23Husband's Name:
+AC1740002.pdf	slNo162	House No.:36Masiyappa Jayaramappa SVF0718239Sex: MaleAge: 65Father's Name:
+AC1740002.pdf	slNo163	House No.:36Jayaramappa Bhagyamma SVF0718486Sex: FemaleAge: 56Husband's Name:
+AC1740002.pdf	slNo164	House No.:36Chikkabairappa Venkatappa SVF3000890Sex: MaleAge: 76Father's Name:
+AC1740002.pdf	slNo165	House No.:36Jayaramappa Suresh DHD7333099Sex: MaleAge: 36Father's Name:
+AC1740002.pdf	slNo166	House No.:36Venkatappa Manjunatha SVF1980960Sex: MaleAge: 37Father's Name:
+AC1740002.pdf	slNo167	House No.:36Suresh Shaila S SVF5421920Sex: FemaleAge: 26Husband's Name:
+AC1740002.pdf	slNo168	House No.:36Jayaramappa Kalavathi S SVF5421961Sex: FemaleAge: 22Husband's Name:
+AC1740002.pdf	slNo169	House No.:37Muniyappa Munirajappa SVF0717843Sex: MaleAge: 39Father's Name:
+AC1740002.pdf	slNo170	House No.:37Munirajappa Lakshmamma SVF3000908Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo171	House No.:38Ramakrishnappa Nagaraj.R DHD8623456Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo172	House No.:38Ramanjinappa Vinoda SVF6517593Sex: FemaleAge: 24Husband's Name:
+AC1740002.pdf	slNo173	House No.:39Thimmarayappa Muniyappa DHD7332935Sex: MaleAge: 60Father's Name:
+AC1740002.pdf	slNo174	House No.:39Muniyappa Venkatalakshmamma SVF0718726Sex: FemaleAge: 54Husband's Name:
+AC1740002.pdf	slNo175	House No.:39Muniyappa Ramanjini SVF0718601Sex: MaleAge: 39Father's Name:
+AC1740002.pdf	slNo176	House No.:39Appayyanna Tippakka SVF0718163Sex: FemaleAge: 58Husband's Name:
+AC1740002.pdf	slNo177	House No.:39Kempaiah Ramakka SVF0717918Sex: FemaleAge: 55Husband's Name:
+AC1740002.pdf	slNo178	House No.:39Kempaiah Anjinappa KT/99/174/528419Sex: MaleAge: 46Father's Name:
+AC1740002.pdf	slNo179	House No.:39Anjinappa Rathnamma SVF0718148Sex: FemaleAge: 39Husband's Name:
+AC1740002.pdf	slNo180	House No.:39Muniyappa Nagaraja DHD7332513Sex: MaleAge: 34Father's Name:
+AC1740002.pdf	slNo181	House No.:39Muniyappa Sivakumarap SVF0136895Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo182	House No.:39Kempaiah Harish K DHD8622326Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo183	House No.:41Basavarajappa Rathnamma SVF0718395Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo184	House No.:45Seethappa Munishamappa SVF4500070Sex: MaleAge: 89Father's Name:
+AC1740002.pdf	slNo185	House No.:46Erappa Rampa SVF1981257Sex: MaleAge: 85Father's Name:
+AC1740002.pdf	slNo186	House No.:46Rampa Lakshmamma SVF0718379Sex: FemaleAge: 69Husband's Name:
+AC1740002.pdf	slNo187	House No.:46Rampa Erappa SVF1980929Sex: MaleAge: 51Father's Name:
+AC1740002.pdf	slNo188	House No.:46Erappa Muniyamma SVF1980937Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo189	House No.:46Venkatachalapati Gowramma SVF0269035Sex: FemaleAge: 38Husband's Name:
+AC1740002.pdf	slNo190	House No.:46Venkataramanappa Appayyanna SVF0718221Sex: MaleAge: 66Father's Name:
+AC1740002.pdf	slNo191	House No.:46Erappa Nagarathna E SVF5519889Sex: FemaleAge: 22Father's Name:
+AC1740002.pdf	slNo192	House No.:47Kadirappa Chikkanarasinhappa 528407Sex: MaleAge: 52Father's Name:
+AC1740002.pdf	slNo193	House No.:47Chikkanarasinhappa Parvathamma SVF1980903Sex: FemaleAge: 44Husband's Name:
+AC1740002.pdf	slNo194	House No.:47Shivakumar Maladevi A SVF5421490Sex: FemaleAge: 24Husband's Name:
+AC1740002.pdf	slNo195	House No.:48Dyavappa Nagarajappa SVF0138552Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo196	House No.:48Nagarajappa Rathnamma 528416Sex: FemaleAge: 42Husband's Name:
+AC1740002.pdf	slNo197	House No.:48Nagarajappa Sampathkumar SVF1003805Sex: MaleAge: 36Father's Name:
+AC1740002.pdf	slNo198	House No.:48Nagarajappa Santhoshkumar SVF1981497Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo199	House No.:48Nagarajappa Navinkumara SVF0137539Sex: MaleAge: 30Father's Name:
+AC1740002.pdf	slNo200	House No.:48NAveen Kumar Nalina SVF5421912Sex: FemaleAge: 25Husband's Name:
+AC1740002.pdf	slNo201	House No.:48Nagaraju Anush N SVF6517437Sex: MaleAge: 20Father's Name:
+AC1740002.pdf	slNo202	House No.:50Pillappa Manjunatha. P SVF0136887Sex: MaleAge: 29Father's Name:
+AC1740002.pdf	slNo203	House No.:52Rajanna Manjula SVF1980812Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo204	House No.:53-2Munisonnappa Narayanaswamy 528417Sex: MaleAge: 48Father's Name:
+AC1740002.pdf	slNo205	House No.:53-2Narayanaswamy R ManjulaSVF0137471Sex: FemaleAge: 43Husband's Name:
+AC1740002.pdf	slNo206	House No.:53-2Kempanna Madhurappa SVF0718478Sex: MaleAge: 40Father's Name:
+AC1740002.pdf	slNo207	House No.:53-2Madhurappa Narayanamma SVF1980572Sex: FemaleAge: 41Husband's Name:
+AC1740002.pdf	slNo208	House No.:53-2Madhurappa M Suresh SVF1980168Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo209	House No.:53-2Munisonnappa Ramakka SVF0718551Sex: FemaleAge: 75Husband's Name:
+AC1740002.pdf	slNo210	House No.:54Muniyappa Munirajappa SVF0718445Sex: MaleAge: 66Father's Name:
+AC1740002.pdf	slNo211	House No.:54Muniraja Somanatha DHD8622524Sex: MaleAge: 36Father's Name:
+AC1740002.pdf	slNo212	House No.:54Somanatha Shalini SVF6517544Sex: FemaleAge: 20Husband's Name:
+AC1740002.pdf	slNo213	House No.:55Munichowdappa Ramakka SVF0718106Sex: FemaleAge: 65Husband's Name:
+AC1740002.pdf	slNo214	House No.:55Manjunatha Nagaratnamma SVF0718528Sex: FemaleAge: 40Husband's Name:
+AC1740002.pdf	slNo215	House No.:55Narayanappa Manjunatha SVF5519855Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo216	House No.:56Muniswamappa Muninanjappa SVF0718858Sex: MaleAge: 58Father's Name:
+AC1740002.pdf	slNo217	House No.:56Muninanjappa Munilakshmamma SVF0718866Sex: FemaleAge: 42Husband's Name:
+AC1740002.pdf	slNo218	House No.:56Thirumalappa Muniyappa SVF0718593Sex: MaleAge: 60Father's Name:
+AC1740002.pdf	slNo219	House No.:56Muniyappa Muniakkaiamma SVF0718577Sex: FemaleAge: 54Husband's Name:
+AC1740002.pdf	slNo220	House No.:56Muniyappa Munikrishna SVF0259945Sex: MaleAge: 40Father's Name:
+AC1740002.pdf	slNo221	House No.:56Munikrishna Pramila SVF1980374Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo222	House No.:56Muninanjappa Lakshminarayan SVF1981380Sex: MaleAge: 29Father's Name:
+AC1740002.pdf	slNo223	House No.:57Narayanaswami Madhu. N SVF0138644Sex: MaleAge: 28Father's Name:
+AC1740002.pdf	slNo224	House No.:58Erappa Savitramma SVF0718288Sex: FemaleAge: 49Husband's Name:
+AC1740002.pdf	slNo225	House No.:58Doddaramaiah Ramaiah SVF1980424Sex: MaleAge: 82Father's Name:
+AC1740002.pdf	slNo226	House No.:58Ramaiah Lakshmamma SVF1980226Sex: FemaleAge: 69Husband's Name:
+AC1740002.pdf	slNo227	House No.:58Ramaiah Rajanna KT/99/174/528412Sex: MaleAge: 40Father's Name:
+AC1740002.pdf	slNo228	House No.:58Erappa Ravikumar SVF3000932Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo229	House No.:58Rajanna Chandrakumari SVF3000940Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo230	House No.:58Ramaiah Somanatha SVF3000957Sex: MaleAge: 34Father's Name:
+AC1740002.pdf	slNo231	House No.:58Ramaiah Muniraja SVF3000965Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo232	House No.:58Muniraj Gangajyothi SVF0718353Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo233	House No.:58Ramaiah Ravikumara SVF3000973Sex: MaleAge: 30Father's Name:
+AC1740002.pdf	slNo234	House No.:58Chowdappa Erappa SVF5519921Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo235	House No.:59Maddurappa Nagaraj SVF3000981Sex: MaleAge: 28Father's Name:
+AC1740002.pdf	slNo236	House No.:59-1Venkataramaiah Pellamma SVF1980184Sex: FemaleAge: 80Husband's Name:
+AC1740002.pdf	slNo237	House No.:61Muniyappa G M AnjinappaSVF0718833Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo238	House No.:61G M AnjinappaNarayanamma SVF0718825Sex: FemaleAge: 40Husband's Name:
+AC1740002.pdf	slNo239	House No.:61Mariyappa Krishnamma SVF0718692Sex: FemaleAge: 55Husband's Name:
+AC1740002.pdf	slNo240	House No.:61Hanumappa Mariyappa DHD7333073Sex: MaleAge: 51Father's Name:
+AC1740002.pdf	slNo241	House No.:61Manjunath Girija 528495Sex: FemaleAge: 38Husband's Name:
+AC1740002.pdf	slNo242	House No.:61Thimmarayappa T NarayanaswamySVF0259960Sex: MaleAge: 60Father's Name:
+AC1740002.pdf	slNo243	House No.:61T NarayanaswamySoubhagyamma SVF0302794Sex: FemaleAge: 52Husband's Name:
+AC1740002.pdf	slNo244	House No.:61Maluru MuniyappaMuniyamma SVF0718007Sex: FemaleAge: 74Husband's Name:
+AC1740002.pdf	slNo245	House No.:61Maluru MuniyappaMuniraju SVF0718841Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo246	House No.:61Muniraju Sarojamma SVF0718775Sex: FemaleAge: 41Husband's Name:
+AC1740002.pdf	slNo247	House No.:61Muniswamappa Hanumappa SVF1980853Sex: MaleAge: 42Father's Name:
+AC1740002.pdf	slNo248	House No.:61Muninanjappa Muniyappa SVF0718874Sex: MaleAge: 44Father's Name:
+AC1740002.pdf	slNo249	House No.:61Hanumappa Jyothiyamma SVF1980382Sex: FemaleAge: 35Husband's Name:
+AC1740002.pdf	slNo250	House No.:61Kemparaja Savitha SVF0138107Sex: FemaleAge: 31Husband's Name:
+AC1740002.pdf	slNo251	House No.:61Mohan Kumar Ashwini B S SVF5421581Sex: FemaleAge: 24Husband's Name:
+AC1740002.pdf	slNo252	House No.:61Narayanaswamy Shivakumar N SVF5421615Sex: MaleAge: 23Father's Name:
+AC1740002.pdf	slNo253	House No.:61Anjinappa Manjushree A SVF5421839Sex: FemaleAge: 22Father's Name:
+AC1740002.pdf	slNo254	House No.:61Mariyappa Ambika M SVF6517668Sex: FemaleAge: 19Father's Name:
+AC1740002.pdf	slNo255	House No.:63Dyavanna Kempamma SVF3000999Sex: FemaleAge: 65Husband's Name:
+AC1740002.pdf	slNo256	House No.:63Narayanaswamy Manikumar SVF5421649Sex: MaleAge: 23Father's Name:
+AC1740002.pdf	slNo257	House No.:63Narayanaswamy Munegowda SVF5421466Sex: MaleAge: 26Father's Name:
+AC1740002.pdf	slNo258	House No.:64Munikenchanna Sonnappa SVF3001005Sex: MaleAge: 60Father's Name:
+AC1740002.pdf	slNo259	House No.:64Sonnappa Mariyamma SVF1980630Sex: FemaleAge: 48Husband's Name:
+AC1740002.pdf	slNo260	House No.:64Sonnappa Premakumara DHD7333164Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo261	House No.:64Kempanna Doddanna SVF1981398Sex: MaleAge: 82Father's Name:
+AC1740002.pdf	slNo262	House No.:64Doddanna D KrishnappaKT/99/174/528513Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo263	House No.:64D KrishnappaLakshmamma 528474Sex: FemaleAge: 41Husband's Name:
+AC1740002.pdf	slNo264	House No.:64Doddanna D ShrinivasaSVF1981018Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo265	House No.:64D ShrinivasaSarojamma SVF1981166Sex: FemaleAge: 42Husband's Name:
+AC1740002.pdf	slNo266	House No.:64Munichowdappa Munirajappa SVF0718452Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo267	House No.:64Munirajappa Ambujakshi SVF0718544Sex: FemaleAge: 40Husband's Name:
+AC1740002.pdf	slNo268	House No.:64Sonnappa S KrishnappaSVF1980614Sex: MaleAge: 37Father's Name:
+AC1740002.pdf	slNo269	House No.:64D Krishnappa Savitramma KT/99/174/630110Sex: FemaleAge: 46Husband's Name:
+AC1740002.pdf	slNo270	House No.:64Krishnappa Veenamma SVF5421607Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo271	House No.:64Srinivassa D Nayana S SVF6517304Sex: FemaleAge: 19Father's Name:
+AC1740002.pdf	slNo272	House No.:65Ramanji Gayithramma SVF0137083Sex: FemaleAge: 31Husband's Name:
+AC1740002.pdf	slNo273	House No.:66Ramachandrappa Ramesh SVF3001013Sex: MaleAge: 42Father's Name:
+AC1740002.pdf	slNo274	House No.:66Venkatappa Dyavappa SVF1003813Sex: MaleAge: 65Father's Name:
+AC1740002.pdf	slNo275	House No.:66Dyavappa Rathnamma SVF0718569Sex: FemaleAge: 52Husband's Name:
+AC1740002.pdf	slNo276	House No.:66Dyavappa Manjunatha KT/99/174/528529Sex: MaleAge: 44Father's Name:
+AC1740002.pdf	slNo277	House No.:66Dyavappa Vijayakumar SVF0718536Sex: MaleAge: 42Father's Name:
+AC1740002.pdf	slNo278	House No.:66Ravi Munirathna SVF0718023Sex: FemaleAge: 36Husband's Name:
+AC1740002.pdf	slNo279	House No.:66Vijay Kumar Bhagyalakshmi SVF5519939Sex: FemaleAge: 26Husband's Name:
+AC1740002.pdf	slNo280	House No.:67Nanjappa Eranna KT/99/174/528552Sex: MaleAge: 58Father's Name:
+AC1740002.pdf	slNo281	House No.:67Eranna Rathnamma SVF0718403Sex: FemaleAge: 48Husband's Name:
+AC1740002.pdf	slNo282	House No.:67Venkatappa Doddadyavappa SVF1980895Sex: MaleAge: 80Father's Name:
+AC1740002.pdf	slNo283	House No.:67Doddadyavappa Lakshmamma SVF0260273Sex: FemaleAge: 65Husband's Name:
+AC1740002.pdf	slNo284	House No.:67Doddadyavappa D Veerannagowda SVF0260216Sex: MaleAge: 44Father's Name:
+AC1740002.pdf	slNo285	House No.:67Eranna Radhamma SVF1980739Sex: FemaleAge: 50Husband's Name:
+AC1740002.pdf	slNo286	House No.:67D Veerannagowda V Yashodha SVF0260265Sex: FemaleAge: 35Husband's Name:
+AC1740002.pdf	slNo287	House No.:67Veeranna Mohan Kumar V SVF5421573Sex: MaleAge: 22Father's Name:
+AC1740002.pdf	slNo288	House No.:67Veeranna N Sandesh Gowda SVF5422001Sex: MaleAge: 25Father's Name:
+AC1740002.pdf	slNo289	House No.:67Veeranna Kalpana V SVF5421896Sex: FemaleAge: 20Father's Name:
+AC1740002.pdf	slNo290	House No.:68Chikkaramnna Muniyappa SVF0718759Sex: MaleAge: 75Father's Name:
+AC1740002.pdf	slNo291	House No.:68Muniyappa Narayanamma SVF0718767Sex: FemaleAge: 60Husband's Name:
+AC1740002.pdf	slNo292	House No.:68Muniyappa Rajanna 528571Sex: MaleAge: 44Father's Name:
+AC1740002.pdf	slNo293	House No.:68Muniyappa Eranna SVF0718411Sex: MaleAge: 42Father's Name:
+AC1740002.pdf	slNo294	House No.:68Muniyappa Nagendrakumar SVF1980564Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo295	House No.:68N. Kumar A. Roopa SVF3001021Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo296	House No.:68Nagendra Kumar Shashikala M SVF6517411Sex: FemaleAge: 22Husband's Name:
+AC1740002.pdf	slNo297	House No.:69Mota ErappaVenkateshappa SVF1981489Sex: MaleAge: 65Father's Name:
+AC1740002.pdf	slNo298	House No.:69Venkateshappa Krishnamma SVF0718155Sex: FemaleAge: 51Husband's Name:
+AC1740002.pdf	slNo299	House No.:69Venkateshappa Eregowda SVF0718460Sex: MaleAge: 40Father's Name:
+AC1740002.pdf	slNo300	House No.:69Venkateshappa Nagaraja SVF0717942Sex: MaleAge: 38Father's Name:
+AC1740002.pdf	slNo301	House No.:69Muneveerappa Krishnappa SVF0718387Sex: MaleAge: 55Father's Name:
+AC1740002.pdf	slNo302	House No.:69Krishnappa Bhagyamma SVF0718817Sex: FemaleAge: 45Husband's Name:
+AC1740002.pdf	slNo303	House No.:69Eeragappa Narayanaswamy SVF0718072Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo304	House No.:69Eeragappa Rajanna SVF1980804Sex: MaleAge: 40Father's Name:
+AC1740002.pdf	slNo305	House No.:69Motaveerappa Chikkadyavappa SVF0718122Sex: MaleAge: 80Father's Name:
+AC1740002.pdf	slNo306	House No.:69Chikkadyavappa Mariyamma KT/99/174/528547Sex: FemaleAge: 70Husband's Name:
+AC1740002.pdf	slNo307	House No.:69Krishnappa Vinay Kuamr K SVF5421482Sex: MaleAge: 21Father's Name:
+AC1740002.pdf	slNo308	House No.:69T K Roopesh Asharani SVF5421540Sex: FemaleAge: 24Husband's Name:
+AC1740002.pdf	slNo309	House No.:69Krishnappa Roopesh K SVF6517312Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo310	House No.:70Ramanna Krishnappa 528555Sex: MaleAge: 60Father's Name:
+AC1740002.pdf	slNo311	House No.:70Ramanna Muniyappa SVF0718031Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo312	House No.:70Muniyappa Lakshmamma SVF0718734Sex: FemaleAge: 44Husband's Name:
+AC1740002.pdf	slNo313	House No.:70Krishnappa Susheelamma SVF1980713Sex: FemaleAge: 39Husband's Name:
+AC1740002.pdf	slNo314	House No.:70Gopalappa M G Kupendra SVF0138636Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo315	House No.:70Muniyappa Harish T M SVF5421979Sex: MaleAge: 25Father's Name:
+AC1740002.pdf	slNo316	House No.:71Ramanna Venkateshappa SVF0718742Sex: MaleAge: 59Father's Name:
+AC1740002.pdf	slNo317	House No.:71Venkateshappa Pellamma SVF0718270Sex: FemaleAge: 47Husband's Name:
+AC1740002.pdf	slNo318	House No.:73Junjappa Sadappa SVF0717975Sex: MaleAge: 122Father's Name:
+AC1740002.pdf	slNo319	House No.:75Muniyappa Uthanallappa SVF0717876Sex: MaleAge: 68Father's Name:
+AC1740002.pdf	slNo320	House No.:75Uthanallappa Hanumakka SVF0717850Sex: FemaleAge: 55Husband's Name:
+AC1740002.pdf	slNo321	House No.:75Pillappa P NarayanappaDHD7332570Sex: MaleAge: 60Father's Name:
+AC1740002.pdf	slNo322	House No.:75P NarayanappaRathnamma SVF0717926Sex: FemaleAge: 52Husband's Name:
+AC1740002.pdf	slNo323	House No.:75Muniyappa Muniswamappa SVF0137570Sex: MaleAge: 70Father's Name:
+AC1740002.pdf	slNo324	House No.:75Muniswamappa Nagamma SVF0718437Sex: FemaleAge: 62Husband's Name:
+AC1740002.pdf	slNo325	House No.:75Muniswamappa Krishnappa SVF3001039Sex: MaleAge: 51Father's Name:
+AC1740002.pdf	slNo326	House No.:75Krishnappa Jayamma SVF1980549Sex: FemaleAge: 44Husband's Name:
+AC1740002.pdf	slNo327	House No.:75Muniswamappa Munirathnappa SVF0137125Sex: MaleAge: 33Father's Name:
+AC1740002.pdf	slNo328	House No.:75P Narayanappa N Kumar DHD7332596Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo329	House No.:75Murthy Manjula SVF5421870Sex: FemaleAge: 25Husband's Name:
+AC1740002.pdf	slNo330	House No.:75Krishnappa Chandra Kumar SVF6517346Sex: MaleAge: 20Father's Name:
+AC1740002.pdf	slNo331	House No.:78Pillappa Munihanumappa SVF0717991Sex: MaleAge: 97Father's Name:
+AC1740002.pdf	slNo332	House No.:78Munihanumappa Venkatamma SVF0717868Sex: FemaleAge: 72Husband's Name:
+AC1740002.pdf	slNo333	House No.:78Munihanumappa Muniraja SVF1980044Sex: MaleAge: 39Father's Name:
+AC1740002.pdf	slNo334	House No.:78Muniyappa Nethravathi SVF3001047Sex: FemaleAge: 34Husband's Name:
+AC1740002.pdf	slNo335	House No.:80Thimmarayappa T KrishnappaKT/99/174/528484Sex: MaleAge: 48Father's Name:
+AC1740002.pdf	slNo336	House No.:80Thimmarayappa T MunirajuSVF0137133Sex: MaleAge: 44Father's Name:
+AC1740002.pdf	slNo337	House No.:80T KrishnappaMunirathnamma SVF0717983Sex: FemaleAge: 37Husband's Name:
+AC1740002.pdf	slNo338	House No.:80Eregowda Anuradha SVF4500096Sex: FemaleAge: 29Husband's Name:
+AC1740002.pdf	slNo339	House No.:80Naveen Kumar Padmavathi SVF4500104Sex: FemaleAge: 25Husband's Name:
+AC1740002.pdf	slNo340	House No.:83-1Venkateshappa Eramma SVF1981323Sex: FemaleAge: 50Husband's Name:
+AC1740002.pdf	slNo341	House No.:83/1Venkatesha Lokesha SVF5519848Sex: MaleAge: 24Father's Name:
+AC1740002.pdf	slNo342	House No.:87Malurumuniyappa Muninanjappa DHD8622615Sex: MaleAge: 50Father's Name:
+AC1740002.pdf	slNo343	House No.:87Muninanjappa Shanthamma SVF0718338Sex: FemaleAge: 42Husband's Name:
+AC1740002.pdf	slNo344	House No.:88Venkateshappa Munirathnamma 528563Sex: FemaleAge: 55Husband's Name:
+AC1740002.pdf	slNo345	House No.:88Guttappa Muniyappa SVF0302711Sex: MaleAge: 76Father's Name:
+AC1740002.pdf	slNo346	House No.:88Muniyappa Rajamma SVF3001054Sex: FemaleAge: 65Husband's Name:
+AC1740002.pdf	slNo347	House No.:88Muniyappa P. Muniraju SVF3001062Sex: MaleAge: 45Father's Name:
+AC1740002.pdf	slNo348	House No.:88Muniyappa Muniyappa T M SVF3001070Sex: MaleAge: 40Father's Name:
+AC1740002.pdf	slNo349	House No.:88Thimmarayappa Bachhegowda SVF1981158Sex: MaleAge: 48Father's Name:
+AC1740002.pdf	slNo350	House No.:88Bachhegowda Lakshmamma SVF1981091Sex: FemaleAge: 43Husband's Name:
+AC1740002.pdf	slNo351	House No.:88Narayanappa Venkateshappa SVF0717819Sex: MaleAge: 70Father's Name:
+AC1740002.pdf	slNo352	House No.:88Venkateshappa Subbamma SVF0717959Sex: FemaleAge: 65Husband's Name:
+AC1740002.pdf	slNo353	House No.:88Venkateshappa Chandramma SVF1981265Sex: FemaleAge: 53Husband's Name:
+AC1740002.pdf	slNo354	House No.:88Venkateshappa Rajanna SVF0718262Sex: MaleAge: 42Father's Name:
+AC1740002.pdf	slNo355	House No.:88Muneveerappa Aswathappa SVF0717892Sex: MaleAge: 66Father's Name:
+AC1740002.pdf	slNo356	House No.:88Aswathappa Lakshmamma SVF0718056Sex: FemaleAge: 55Husband's Name:
+AC1740002.pdf	slNo357	House No.:88Aswathappa Nagesh SVF1981570Sex: MaleAge: 41Father's Name:
+AC1740002.pdf	slNo358	House No.:88Muneveerappa Vasudeva DHD8363384Sex: MaleAge: 37Father's Name:
+AC1740002.pdf	slNo359	House No.:88Venkateshappa Somashekhara VDHD7333263Sex: MaleAge: 36Father's Name:
+AC1740002.pdf	slNo360	House No.:88Venkateshappa Anjinamma SVF1981364Sex: FemaleAge: 40Husband's Name:
+AC1740002.pdf	slNo361	House No.:88Rajanna Ambika SVF1981356Sex: FemaleAge: 30Husband's Name:
+AC1740002.pdf	slNo362	House No.:88Ashwathappa Chandrika SVF0718049Sex: FemaleAge: 32Father's Name:
+AC1740002.pdf	slNo363	House No.:88mumiyappa Devaraj M SVF5421953Sex: MaleAge: 25Father's Name:
+AC1740002.pdf	slNo364	House No.:88Muniyappa Venkatalakshmi M SVF5421623Sex: FemaleAge: 23Father's Name:
+AC1740002.pdf	slNo365	House No.:90Dyavappa Shanthamma SVF3001088Sex: FemaleAge: 52Husband's Name:
+AC1740002.pdf	slNo366	House No.:90Dyavappa Subramani 528569Sex: MaleAge: 47Father's Name:
+AC1740002.pdf	slNo367	House No.:90Dyavappa Murthy SVF0718429Sex: MaleAge: 45Father's Name:
+AC1740002.pdf	slNo368	House No.:90Subramani Anitha SVF1981216Sex: FemaleAge: 31Husband's Name:
+AC1740002.pdf	slNo369	House No.:90Dyavappa T D Ramesh DHD7332588Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo370	House No.:92Muneveerappa Baiyamma SVF0718080Sex: FemaleAge: 74Husband's Name:
+AC1740002.pdf	slNo371	House No.:92Muneveerappa Munidyavappa SVF1980838Sex: FemaleAge: 70Father's Name:
+AC1740002.pdf	slNo372	House No.:92Munidyavappa Narayanamma SVF1980986Sex: FemaleAge: 60Husband's Name:
+AC1740002.pdf	slNo373	House No.:92Munidyavappa Manjunatha SVF0717967Sex: MaleAge: 38Father's Name:
+AC1740002.pdf	slNo374	House No.:92Munidyavappa T M KeshavamurthySVF1980317Sex: MaleAge: 37Father's Name:
+AC1740002.pdf	slNo375	House No.:92Keshava Murthy Roopashree D N SVF5421862Sex: FemaleAge: 26Husband's Name:
+AC1740002.pdf	slNo376	House No.:96Chikkadyavappa Veeranna DHD7333131Sex: MaleAge: 36Father's Name:
+AC1740002.pdf	slNo377	House No.:212Narayanaswami Ramesha SVF0137497Sex: MaleAge: 30Father's Name:
+AC1740002.pdf	slNo378	House No.:212Rajendra Kumar Sujatha SVF5519863Sex: FemaleAge: 30Husband's Name:
+AC1740002.pdf	slNo379	House No.:229-1Premakumara S Nalina N SVF1980622Sex: FemaleAge: 27Husband's Name:
+AC1740002.pdf	slNo380	House No.:292-1Munirathnappa Aasha SVF3001096Sex: FemaleAge: 26Husband's Name:
+AC1740002.pdf	slNo381	House No.:0-1-2Muniduddappa Narayanaswami SVF1981083Sex: MaleAge: 27Father's Name:
+AC1740002.pdf	slNo382	House No.:0-2-2aBairegaud Sudharani SVF1981208Sex: FemaleAge: 26Husband's Name:
+AC1740002.pdf	slNo383	House No.:0-7-1bManirajappa Shivukumara SVF1981372Sex: MaleAge: 30Father's Name:
+AC1740002.pdf	slNo384	House No.:0-19-3-63Muniraj Shobha SVF3001104Sex: FemaleAge: 28Father's Name:
+AC1740002.pdf	slNo385	House No.:0-36Venkataswami Kempamma SVF1980499Sex: FemaleAge: 64Husband's Name:
+AC1740002.pdf	slNo386	House No.:0-36Aavalappa Lakshman SVF1980515Sex: MaleAge: 43Father's Name:
+AC1740002.pdf	slNo387	House No.:0-36Lakshman Janakamma SVF1980481Sex: FemaleAge: 36Husband's Name:
+AC1740002.pdf	slNo388	House No.:0-36Venkataswami Renuka SVF0718171Sex: FemaleAge: 30Father's Name:
+AC1740002.pdf	slNo389	House No.:0-36-71Manjunath Shwetha SVF1980952Sex: FemaleAge: 28Husband's Name:
+AC1740002.pdf	slNo390	House No.:0-47Chaudappa Venkatamma SVF0136986Sex: FemaleAge: 73Husband's Name:
+AC1740002.pdf	slNo391	House No.:0-64-32Munirajappa Manjunath SVF0718700Sex: MaleAge: 30Father's Name:
+AC1740002.pdf	slNo392	House No.:0-66-37Manjunath Rashmi SVF1981539Sex: FemaleAge: 30Husband's Name:
+AC1740002.pdf	slNo393	House No.:0-88-97Vasudev Anitha SVF3001138Sex: FemaleAge: 29Husband's Name:
+AC1740002.pdf	slNo394	House No.:0-90Murthi Kamalamma SVF1981000Sex: FemaleAge: 28Husband's Name:
+AC1740002.pdf	slNo395	House No.:0-n-98Krishnappa Lakshmamma SVF0718718Sex: FemaleAge: 38Husband's Name:
+AC1740002.pdf	slNo396	House No.:03Chandramurthi Nirmala SVF1981448Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo397	House No.:14Muniraj Nagarathna SVF1981299Sex: FemaleAge: 31Husband's Name:
+AC1740002.pdf	slNo398	House No.:15Rajanna Vijaya SVF1981117Sex: FemaleAge: 33Husband's Name:
+AC1740002.pdf	slNo399	House No.:18Govindappa Umesh SVF0718676Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo400	House No.:19Vi Venkateshayya Shanthamma SVF1980705Sex: FemaleAge: 50Husband's Name:
+AC1740002.pdf	slNo401	House No.:29Chinnappa Yallaraju SVF0718783Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo402	House No.:36Jayaramappa Srinivas J DHD8622342Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo403	House No.:47Chikkanarasimhappa Shivakumar DHD8622730Sex: MaleAge: 32Father's Name:
+AC1740002.pdf	slNo404	House No.:56Aanjinappa Nagaveni DHD8622821Sex: FemaleAge: 31Husband's Name:
+AC1740002.pdf	slNo405	House No.:61T Narayanaswami Mohanakumara DHD8623472Sex: MaleAge: 31Father's Name:
+AC1740002.pdf	slNo406	House No.:66Ramesh Sumithra SVF0718130Sex: FemaleAge: 35Husband's Name:
+AC1740002.pdf	slNo407	House No.:68Iranna Bhagya SVF1981125Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo408	House No.:71Venkatashappa Krishnamurthi SVF1980663Sex: MaleAge: 82Father's Name:
+AC1740002.pdf	slNo409	House No.:75Uththanalappa Murthy V SVF1980036Sex: MaleAge: 30Father's Name:
+AC1740002.pdf	slNo410	House No.:88V Somashekhara Pavitha SVF1981471Sex: FemaleAge: 30Husband's Name:
+AC1740002.pdf	slNo411	House No.:96Viranna Suguna SVF0718320Sex: FemaleAge: 32Husband's Name:
+AC1740002.pdf	slNo412	House No.:97Muththuswami Chinnaswami SVF1980861Sex: MaleAge: 72Father's Name:
+AC1740002.pdf	slNo413	House No.:97Chinnaswami Pushpa SVF1980721Sex: FemaleAge: 47Husband's Name:
+AC1740002.pdf	slNo414	House No.:99Venkateshayya V Venkatayya SVF1981430Sex: MaleAge: 65Father's Name:
+AC1740002.pdf	slNo415	House No.:99Vi Venkateshayya Damodarayya SVF3001112Sex: MaleAge: 31Father's Name:
